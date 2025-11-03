@@ -1,0 +1,198 @@
+DR v Canada Employment Insurance Commission
+Collection
+Employment Insurance (EI)
+Decision date
+2024-11-20
+Neutral citation
+2024 SST 1729
+Reference number
+GE-24-2472
+Member
+Ambrosia Varaschin
+Division
+General Division
+Decision
+Appeal dismissed
+Related decisions
+SST - DR v Canada Employment Insurance Commission - 2025 SST 399 - 2025-04-21 - Appeal Division
+Decision Content
+Citation: DR v Canada Employment Insurance Commission, 2024 SST 1729
+Social Security Tribunal of Canada General Division – Employment Insurance Section
+Decision
+Appellant: D. R.
+Respondent: Canada Employment Insurance Commission
+Decision under appeal: Canada Employment Insurance Commission reconsideration decision (663216) dated June 13, 2024 (issued by Service Canada)
+Tribunal member: Ambrosia Varaschin
+Type of hearing: Videoconference & In Writing
+Hearing date: September 4, 2024
+Hearing participants: Appellant
+Decision date: November 20, 2024
+File number: GE-24-2472
+On this page
+Decision Overview Issues Analysis Conclusion
+Decision [1] The appeal is dismissed, but I am changing the decision.
+[2] The Canada Employment Insurance Commission (Commission) hasn’t shown that the Appellant voluntarily left his employment.
+[3] The Appellant was dismissed on November 16, 2023, for failing to maintain active on the employer’s spares list. The reason for dismissal is misconduct according to the Employment Insurance Act (EI Act).
+[4] This means he is disqualified from receiving Employment Insurance (EI) benefits.
+Overview [5] The Appellant was notified on May 29, 2023, that the client of his employer was either closing his worksite or reducing their labour force, and his position was eliminated as of June 5, 2023. His employer informed him that he would be placed on the spare’s list until a new assignment could be found.
+[6] On November 16, 2023, the employer sent the Appellant a letter indicating that they had processed a resignation on his behalf for job abandonment. The employer said that the Appellant had failed to work a minimum of two shifts per month and didn’t contact the HR advisor by the deadline indicated in a warning letter issued on November 8, 2023.
+[7] The Appellant lodged a complaint with the Ontario Ministry of Labour, and was successful.
+[8] The Commission looked at the Appellant’s situation. It decided that he voluntarily left (or chose to quit) his job without just cause, so it wasn’t able to pay him benefits.
+[9] I have to decide whether the Appellant was part of a workforce reduction process, and if not, if he voluntarily left his position or was dismissed. If I find that he voluntarily left his position, I must decide if he has proven that he had no reasonable alternative to leaving his job. If I find he was dismissed, I must decide if the reason he lost his job was due to misconduct.
+Issues [10] Was the Appellant part of a workforce reduction process?
+[11] Did the Appellant voluntarily leave his job? If so, did he do so without just cause?
+[12] Did the Appellant lose his job because of misconduct?
+Analysis Was the Appellant part of a workforce reduction? [13] A claimant who voluntarily leaves employment as part of a workforce reduction process retains their entitlement to EI benefits.
+[14] In order to qualify as a workforce reduction process under the law, the process must be initiated and documented by the employer, the primary objective must be a permanent reduction in staff, and employees must have the option to leave voluntarily on their own accord. In order for claimants involved in a workforce reduction process to receive benefits, they must accept the employer’s offer to voluntarily leave and the employer must confirm that this decision has actually preserved the job of someone who would have been terminated as a result of the workforce reduction.Footnote 1
+[15] All of these conditions must be met in order for claimants to qualify for the workforce reduction provisions in the EI Regulations.Footnote 2
+Was the process initiated by the employer? [16] I am satisfied that the process was started by the employer.
+[17] The employer issued a notice that the client that owns the site where the Appellant worked was either “closing and/or experiencing a reduction in workforce,” on May 29, 2023. The notice stated that the Appellant was no longer “required at this site as of Monday, June 5th, 2023,” and that his “last day on site will be Friday, June 2nd, 2023.”Footnote 3
+[18] So, the employer initiated a process to address their reduced staffing needs after losing a contract for service.
+Was the objective a permanent reduction in the overall number of employees? [19] I find that the purpose of the process was to redistribute the excess workforce, not to reduce the overall number of employees.
+[20] According to the May 29, 2023, notice, the employer was not eliminating positions. Instead, the employer was planning to reassign the employees from the Appellant’s worksite. Instead of being laid-off, employees from the worksite would be placed on the casual call-in list until a new placement was secured for them:
+We are working hard to find an alternative placement for you. Over the next week, our operations team and/or our Recruitment team will be reaching out to you to discuss potential new opportunities that are available and/or becoming available. We ask that you please ensure your contact information is UpToDate and respond when called.
+Until an alternative placement can be secured, you will be placed on the spares list. Please note while on the spares list it is your responsibility to ensure you pick up a minimum of two shifts per month in order to remain active in the system.Footnote 4
+[21] So, the primary purpose of the process was not to permanently reduce the employer’s workforce. Since all criteria set out in the EI Regulations must be met to qualify as a workforce reduction process, I don’t need to continue with this part of the analysis.
+Did the Appellant stop working due to a workforce reduction process? [22] I am satisfied that the Appellant was not part of a workforce reduction process under the law because the process does not meet all of the requirements.
+[23] So, the provisions in the EI Regulations that protect access to benefits for claimants who leave their employment under a workforce reduction process do not apply to the Appellant’s appeal.
+The parties don’t agree that the Appellant voluntarily left [24] The Commission says the Appellant quit his job. The burden of proof is on the Commission to show that the Appellant left his job voluntarily.Footnote 5
+[25] The term “burden” is used to describe which party must provide sufficient proof of its position to pass the legal test. The legal test in this case is on a balance of probabilities, which means it is “more likely than not” that something happened.Footnote 6
+[26] The Commission says the Appellant abandoned his job because he failed to follow to the instructions his employer gave him in the May 29, 2023, notice. It specifically points to the section that states, “it is your responsibility to ensure you pick up a minimum of two shifts per month in order to remain active in the system. It is your responsibility to check track tik often to pick up often shifts and should your availability change for whatever reason.”Footnote 7
+[27] The Commission argues it was the Appellant’s responsibility to contact the employer to confirm his availability and pick up a minimum of two shifts per month. Choosing not to pick up any shifts means that it was the Appellant who initiated the end of the employment relationship, so he voluntarily left.
+[28] The Appellant disagrees and says that he was laid off and then dismissed. He argues that his employment contract stipulates how dismissals and resignations are processed, and according to his contract he did not resign, he was dismissed.
+[29] Section 5.2 of the employment contract states that, “resignation occurs when an employee decides to leave voluntarily or retires.” Section 5.3 states that, “termination occurs when it becomes necessary to release an employee due to loss of gainful employment such as a lost contract or downsizing; absence without approval; failure to maintain qualifications; being unavailable for assignment; or for reasons concerning poor performance and behaviour.”Footnote 8 Section 4.26 states that, “failure to accept offered work three (3) times or maintain contact may be considered as being unavailable for work and may result in disciplinary action up to and including termination.”Footnote 9
+[30] The termination letter states it was confirming the Appellant’s “job abandonment resignation from Commissionaires (Great Lakes) effective November 16, 2023.”Footnote 10 The warning letter states, “if you fail to make contact, as referenced above, and/or pick up at least 2 shifts per month after you have been instructed how to do so, we will deem your actions as you having abandoned your employment with the Commissioners X and proceed to input your job abandonment resignation into our operating system.”Footnote 11
+[31] The law says that the actual reason for ending the employment relationship is what is important, not the excuse used by the employer.Footnote 12 The Court requires me to make my own objective assessment of the facts and not simply adopt the conclusion of the employer.Footnote 13
+[32] I find, on the balance of probabilities, that the Appellant was dismissed. While the warning and termination letters state that the employer considers the Appellant’s inaction as a resignation, the governing document is the employer’s Policies and Procedures manual. The policy and procedure manual clearly states that failing to maintain contact may be considered as unavailable, and being unavailable for assignment may result in termination. So, while the employer may have said the Appellant resigned, the employer’s policies show the Appellant was terminated.
+[33] The purpose of sections 29 and 30 of the EI Act is to penalize claimants when their loss of employment is because of their own deliberate actions.Footnote 14 Accordingly, the Federal Court has held that when the actions of the employer contribute to the loss of employment, the Tribunal must properly assess whether or not the claimant was the party who intentionally caused the end of the employment relationship.Footnote 15
+[34] The determination of whether an employee has voluntarily left their employment is a simple one: did the employee have a choice to stay or to leave?Footnote 16 The employer did not give the Appellant a choice when it issued the termination letter. So, he was dismissed.
+[35] When the evidence for a claimant quitting versus being dismissed are roughly equal, the benefit of the doubt must be given to the claimant because the burden of proof is on the Commission.
+Did the Appellant leave, or was he dismissed? [36] I find, on the balance of probabilities, that the Appellant was dismissed for failing to work two shifts or contact his employer by the end of November 15, 2023.
+Misconduct and voluntary leaving are linked [37] Even though the Commission made a mistake in determining the Appellant’s leave of absence was voluntary, I still have the authority to consider if the leave was caused by misconduct.Footnote 17
+[38] Ultimately, the cardinal principle of the EI Act is to insure claimants against the involuntary or unintentional loss of employment.Footnote 18 If a claimant asks for a leave of absence, or behaves in a way that causes him to stop working, the claimant has caused the loss of employment. Parliament linked voluntary leaving and misconduct because it might be unclear who caused the employment relationship to end (or, in this case, who imposed the leave of absence). This is also why the consequences for voluntary leaving and misconduct are the same.Footnote 19
+[39] So, I will proceed with determining if the Appellant’s termination is considered misconduct under the EI Act.
+What is misconduct under the law? [40] To be misconduct under the law, the conduct must be wilful. This means that the conduct was either conscious, deliberate, or intentional.Footnote 20 Misconduct can also exist if the behaviour was so reckless that it is almost wilful.Footnote 21 This means that even if there isn’t wrongful intent (in other words, you don’t mean to do something wrong) behaviour can still be misconduct under the law.Footnote 22
+[41] To be considered misconduct, the law requires that the Appellant knew, or should have known, that there was a real possibility of losing his job because of his conduct, or that it could prevent him from fulfilling his duties toward his employer.Footnote 23
+[42] The Commission must prove that the Appellant lost his job because of misconduct on the balance of probabilities. This means that it must show that it is more likely than not that the Appellant lost his job because of misconduct.Footnote 24
+[43] Since misconduct is the exception to the general rule that eligible individuals are entitled to benefits, it must be strictly interpreted. Disqualification under the Act is a punishment for claimants who lose their jobs through wrongdoing.Footnote 25 A finding of misconduct results in the claimant losing all their insurable hours for the employment they were dismissed from. This is a very serious consequence, so the burden of proof for the Commission is high.
+[44] The Commission must prove misconduct exists using clear evidence and facts that point directly to it. It can’t speculate, assume, or rely on the opinion of the employer to prove misconduct.Footnote 26
+Is the reason for the Appellant’s dismissal misconduct under the law? [45] The Commission says there was misconduct because the Appellant knew he was required to contact his employer every two weeks to remain active, and that he was expected to work a minimum of two shifts per month, and by not doing so he was recklessly, if not intentionally, placing his employment at risk.
+[46] The Appellant says that there was no misconduct because he was hired to be a fulltime security guard, and was laid off due to a shortage of work. His employer didn’t contact him after his position was eliminated, and he had to go to the Ontario Ministry of Labour to file a complaint. The Appellant argues that his employer attempted to use loopholes to avoid paying him in lieu of notice and severance. The Ontario Ministry of Labour agreed that he was dismissed and owed his notice and severance monies.Footnote 27
+[47] I find that the employment contract and policies allow the employer to transfer the Appellant as needed, to place the Appellant on the spare’s list at any time, and requires the Appellant to accept any posting that he is assigned to or face termination. They also allow the employer to change the hours of work between fulltime, parttime, and casual, according to operational needs.
+[48] I find that the employment contract and policies require the Appellant to confirm his availability at least every two weeks because he was placed on the spare’s list and was in between assignment. They do not require the Appellant to work a minimum of two shifts per month.
+[49] I find that the employer clearly indicated to the Appellant that his work status was changing to casual until he was reassigned, and he was required to keep his contact information up to date and work at least two shifts per month while on the spares list.
+[50] I find that the employer provided the Appellant multiple contact points to rectify any issues he may have had accessing Track Tik or updating his availability, but the Appellant chose not to follow the direction of his employer.
+What the employment contract says [51] In the section titled “Terms,” the employment contract states the Appellant “accept employment as a Commissionaire with Commissionaires Great Lakes (also referred to herein as the ‘Company’), and undertake to abide by the Company’s Policies and Procedures and any other policies that may be made from time to time by the management of the Company.” It also says, “I agree to engage myself as a Commissionaire to the best of my abilities, undertake all ordinary duties of a Commissionaire, and accept any situation to which I may be assigned.” (emphasis my own) The Appellant initialed each of these articles.Footnote 28
+[52] In the section titled “Assignment Details and Shifts,” the employment contract states, “I understand that employees engaged on a part-time or casual basis must maintain contact with the Duty Operator or Operations Assistant at least every two weeks to confirm availability. Failure to maintain contact may be considered unavailable for work and may result in disciplinary action up to and including termination.” (emphasis my own)
+[53] The section goes on to state, “I understand that I may be assigned initially by the Operations Department to a part-time, casual list (the ‘Spares List’) pending full-time assignments. I may be transferred to different posts from time to time, and my wage rate will be determined by the post and position to which I am assigned. I understand that any refusal of transfer or assignments may result in the termination of my employment. I further understand that even after assignment to full‑time posts, I may be returned to the Spares List at any time at the sole discretion of Commissionaires Great Lakes.” (emphasis my own) The Appellant initialed both of these articles.Footnote 29
+[54] In the section titled “Policies and Procedures,” the employment contract states, “with the written acceptance of employment, all X employees agree to employment with these policies as documented. I further agree to review these on a monthly basis or when a notice of change is issued and will follow all Commissionaires Policies and Procedures.” The Appellant initialed this article.Footnote 30
+What the Commissionaires Great Lakes Policies & Procedures say [55] In the section titled “Conditions of Employment,” article 4.24 “Job Acceptance” states that, “every employee is expected to undertake any duty for which the employee is offered reasonable compensation and is capable of performing. Reasonable and bona fide reasons for not accepting an assignment will be given due consideration.”(emphasis my own)
+[56] Article 4.25 “Work Status” states that, “employment may be offered on a fulltime, regular part-time, job-sharing or casual basis, depending on the requirements and or availability of work.”
+[57] Article 4.25 “Maintain Contact” states that, “employees employed on a casual basis or between assignments must maintain contact with the Operations Centre or local Operations Assistant at least once every two weeks to confirm availability. Failure to accept offered work three (3) times or maintain contact may be considered as being unavailable for work and may result in disciplinary action up to and including termination.”Footnote 31(emphasis my own)
+[58] Article 4.28 “Reassignment” states that, “Commissionaires Great Lakes reserves the right to reassign employees to other posts in order to meet operational requirements.”Footnote 32(emphasis my own)
+What the employer told the Appellant [59] In the notice sent to the Appellant on May 29, 2023, after the letter explains that the Appellant’s worksite was closing, it goes on to explain that the employer was “working hard to find an alternative placement for [the Appellant]. Over the next week, our operations team and/or our Recruitment team will be reaching out to [the Appellant] to discuss potential new opportunities that are available and/or becoming available. We ask that you please ensure your contact information is UpToDate and respond when called.”
+[60] The notice goes on to state that, “until an alternative placement can be secured, you will be placed on the spares list. Please note while on the spares list it is your responsibility to ensure you pick up a minimum of two shifts per month in order to remain active in the system. It is your responsibility to check track tik often to pick up often shifts and should your availability change for whatever reason, please contact Operations…If you have any questions, please do not hesitate to contact me…Subsequently, you can also reach out to your Regional Manager with any concerns or questions as well.”Footnote 33(emphasis my own)
+[61] In response to the Appellant’s email requesting pay in lieu of notice, the employer said, “please be advised that you have not been terminated, the contract with the client has ended and/or has experienced a reduction in workforce, you are still very much employed with Commissionaires Great Lakes…Within the letter it states that we are working hard to find alternative placement for you. In the interim, please check track tik for any open shifts that you can sign up for. Please identify your shift availability and area you are available to work as Operations is copied in this email.”Footnote 34
+[62] In response to the Appellant’s email contesting that he signed an employment contract for fulltime work and he is entitled to pay in lieu of notice, the employer reminded the Appellant that the employment agreement stated he could be transferred to the spares list at anytime, and that he continues to be employed. The employer stated, “you have the ability to pick up shifts within Track Tik, as well as our Operations team and the recruitment team are working hard to contact everyone to offer alternative placements.”Footnote 35
+[63] All email communications before me appear to use the Appellant’s work email address and were CC’d to his personal email address.
+[64] The Appellant testified that he never had access to Track Tik because of an issue with his phone and the employer was aware of this. He testified that the work around for this issue was he would call a number to clock in and out of work. The Appellant initially testified that he did contact the Duty Operator with his availability, but then clarified that the Duty Operator was cc’d on these emails. There is no evidence before me that the Appellant updated the Duty Operator with his availability. The Appellant confirmed in his testimony that he didn’t reach out to the employer about his inability to access Track Tik after the email exchange with his employer.
+[65] On November 8, 2023, the employer sent a “Status Letter” to the Appellant via “corporate and personal email address.” The letter highlighted that the Appellant was required to work a minimum of 2 shifts per month in order to remain an employee of Commissionaires X because they had “many site vacancies that are required to be filled.” The letter instructs the Appellant to contact the Human Resources Administrator by end of business day on November 15, 2023. The letter warns the Appellant that if he failed to contact the HR Administrator “and/or pick up at least 2 shifts per month after you have been instructed how to do so, we will deem your actions as you having abandoned your employment with the Commissioners X and proceed to input your job abandonment resignation into our operating system.”Footnote 36
+[66] The Appellant testified that he did not receive this warning letter until it was disclosed through his employment standards complaint. He says that he didn’t have access to his work email, and did not receive the letter to his personal email. I note that the letter doesn’t include what addresses it was sent to, so I cannot blindly accept that it was sent to the Appellant.
+[67] I find that the Commission has proven that there was misconduct, because the Appellant knew, or ought to have known, that:
+a) his employer was entitled to place him on the spare’s list at any time b) when on the spare’s list he was required to check in every two weeks and accept two shifts per month c) failing to check in every two weeks could result in termination.
+[68] The Appellant argues that his employer failed to contact him for reassignment like he was told multiple times. He says that he should not be held responsible for not accepting work when he was never offered a new position. The Appellant further argues that under Ontario employment legislation, if an employer doesn’t contact an employee for 12 weeks, it is considered a termination. So, he can’t be dismissed for not following instructions in November when under Ontario law he was considered terminated in August.
+[69] The Courts have repeatedly held that the role of the Tribunal is not to evaluate the conduct of the employer after a claimant has committed misconduct.Footnote 37 This is not the proper forum for seeking a remedy for an employee who believes they have been wronged by an employer’s policy or action.Footnote 38 Employment disputes are better handled through labour arbitration or civil tort, and the Appellant has already received a remedy through this avenue.
+[70] The Tribunal must focus on the conduct of the claimant, not the employer. The question at hand is whether the Appellant was guilty of misconduct and whether this misconduct resulted in losing his employment. It is not whether the employer was guilty of some misdeed toward the Appellant.Footnote 39 Any arguments about the employer’s conduct, operations, or policy, is not relevant to this appeal.Footnote 40
+Did the Appellant lose his job because of misconduct? [71] Based on my findings above, I find that the Appellant lost his job because of misconduct.
+[72] I understand that the Appellant believes his employer behaved improperly and was attempting to skirt labour laws by placing him on the spare’s list instead of laying him off, however that is not the issue before me. I also understand that the Appellant is of the opinion that he was dismissed when his assignment was changed, and failing that, then 12 weeks after his employer last communicated to him. My jurisdiction is limited to applying the EI Act, so, while failing to contact the Appellant for 12 weeks might trigger sections of his provincial employment legislation, it does not apply to the employment relationship in the context of the EI Act.
+[73] While the Appellant staunchly maintains his employer had an obligation to contact him with work because they said they would, the Appellant is not blameless in this situation. Immediately after stating that someone would be in contact with the Appellant to assist in the reassignment process, the employer states that he has been placed on the spare’s list and is required to update his availability and pick up two shifts per month. By his own admission, the Appellant didn’t contact the Duty Operator to update his availability at any time after May 30, 2023, which may have resulted in an immediate reassignment, let alone work two shifts per month.
+[74] The issue before me is not whether or not the employer violated employment legislation or failed to follow through on promises. The issue before me is whether the Appellant contributed to losing his job by knowingly violating a policy or order from his employer, or behaving so recklessly that his negligence should be seen as wilful.
+[75] In this case, the Appellant’s employment contract and policies clearly allow the employer to place him on the spare’s list. And, once on the spare’s list, he has a duty to update his availability every two weeks to maintain his employment. The employment contract and policies clearly state that failing to maintain contact may result in termination. Even though the Appellant may not have received the warning letter, he should have known that not being in contact with his employer since June 2023 could result in termination because he was aware of the contents of his employment contract and policies.
+[76] Furthermore, since the Appellant knew he couldn’t fulfill his employer’s requirements to use Track Tik and chose not to reach out to any of the contacts provided by his employer, he behaved so recklessly it should be seen as wilful. He received a clear instruction to use Track Tik as a condition of employment, he knew he couldn’t access Track Tik, and he chose not to do anything about it. That choice knowingly endangered his employment.
+[77] The Courts have emphasized that the EI system exists to insure claimants who have lost their employment through no fault of their own. The very foundations and principles of insurance applies to the application of the EI Act. The insurance offered by the EI system is a function of the risk run by an employee of losing his employment. Therefore, other than certain exceptions, it is the responsibility of claimants not to create a risk of unemployment, or transform what was only a risk of unemployment into a certainty.Footnote 41
+[78] In this case, the Appellant was offered an alternative to unemployment, but he didn’t like that option. As a result, his behaviour and choices led to him violating the terms of his employment contract, his employment policies, and clear instructions and direction from his employer.
+Conclusion [79] I find that the Appellant is disqualified from receiving benefits.
+[80] This means that the appeal is dismissed with modification.
+Footnotes
+Footnote 1
+See section 51 of the Employment Insurance Regulations (EI Regulations).
+Footnote 2
+See Canada (Attorney General) v Williams, 2010 FCA 271.
+Footnote 3
+See GD03-60.
+Footnote 4
+See GD03-60.
+Footnote 5
+See Green v Canada (Attorney General), 2012 FCA 313; Canada (Attorney General) v White, 2011 FCA 190; and Canada (Attorney General) v Patel, 2010 FCA 95.
+Footnote 6
+See Canada (Attorney General) v Corner, A-18-93.
+Footnote 7
+See GD04-6, citing GD03-60.
+Footnote 8
+See GD06-14.
+Footnote 9
+See GD06-12.
+Footnote 10
+See GD03-38.
+Footnote 11
+See GD06-11.
+Footnote 12
+See Davlut v Canada (Attorney General), 1983 FCA A-241-82.
+Footnote 13
+See Meunier v Canada Employment and Immigration Commission, 1995 FCA A-130-96.
+Footnote 14
+See Canada (Attorney General) v Borden, 2004 FCA 176.
+Footnote 15
+See Astolfi v Canada (Attorney General), 2020 FC 30.
+Footnote 16
+See Canada (Attorney General) v Peace, 2004 FCA 56
+Footnote 17
+See Canada (Attorney General) v Dufour, 1993 FCA A-1398-92; Canada (Attorney General) v Easson, 1992 FCA A-1598-92; Canada (Attorney General) v Eppel, 1995 FCA A-3-95; and Smith v Canada (Attorney General), 1997 FCA A-875-96.
+Footnote 18
+See Canada (C.E.I.C.) v Gagnon, [1988] 2 S.C.R. 29; Canadian Pacific Ltd. v Canada (Attorney General), [1986] 1 S.C.R. 678; Hills v Canada (Attorney General), [1988] 1 S.C.R. 513; Canada (Attorney General) v Debono, 1983 FCA A-434-82;and Canada (Attorney General) v Kenny, 1983 FCA A-433-82.
+Footnote 19
+See Martin Service Station v M.N.R., [1977] 2 S.C.R. 996.
+Footnote 20
+See Mishibinijima v Canada (Attorney General), 2007 FCA 36.
+Footnote 21
+See McKay-Eden v Her Majesty the Queen, A-402-96.
+Footnote 22
+See Attorney General of Canada v Secours, A-352-94.
+Footnote 23
+See Mishibinijima v Canada (Attorney General), 2007 FCA 36.
+Footnote 24
+See Minister of Employment and Immigration v Bartone, A-369-88.
+Footnote 25
+See Canada (Attorney General) v McLaughlin, A-244-94.
+Footnote 26
+See Crichlow v Canada (Attorney General), A-562-97.
+Footnote 27
+See GD03-40 through 49.
+Footnote 28
+See GD03-53.
+Footnote 29
+See GD03-54.
+Footnote 30
+See GD03-57.
+Footnote 31
+See GD06-12
+Footnote 32
+See GD06-13.
+Footnote 33
+See GD03-60.
+Footnote 34
+See GD03-64 and 65.
+Footnote 35
+See GD03-62.
+Footnote 36
+See GD06-11.
+Footnote 37
+See Paradis v Canada (Attorney General), 2016 FC 1282 at paras 30‑31: “Both the SST-AD and the SST-GD were correct in finding that the conduct of the employer is not a relevant consideration under section 30 of the EIA. Rather, the analysis is focused on the applicant’s act or omission and whether that amounted to misconduct within the meaning of section 30 of the EIA: McNamara, above, at para 22. “Misconduct” in this context means “deliberate” or “wilful”. The SST-GD set out the correct test for determining a claimant’s loss of employment by reason of his own misconduct under sections 29 and 30 of the EIA. Based on the record before it, the SST-GD reasonably found that it was the applicant failing a drug test that led to his dismissal.”
+Footnote 38
+See Abdo v Canada (Attorney General), 2023 FC 1764 and Matti v Canada (Attorney General), 2023 FC 1527 at para 21: “the SST and the Court are not the proper forums for seeking a remedy where an employee believes they have been wronged by an employer’s policy,” citing Kuk v Canada (Attorney General), 2023 FC 1134.
+Footnote 39
+See Canada (Attorney General) v McNamara, 2007 FCA 107; Fleming v Canada (Attorney General), 2006 FCA 16.
+Footnote 40
+See Canada (Attorney General) v Caul, 2006 FCA 251; Canada (Attorney General) v Marion, 2002 FCA 185; Canada (Attorney General) v Secours, A-352-94; Canada (Attorney General) v Namaro, A-834-82; and Canada (Attorney General) v Macdonald, A-152-96.
+Footnote 41
+See Canada (Attorney General) v Campeau, 2006 FCA 376; Canada (Attorney General) v Côté, 2006 FCA 219; Tanguay v Canada (Unemployment Insurance Commission), 1985 FCA 239; Canada (Attorney General) v Langlois, 2008 FCA 18.

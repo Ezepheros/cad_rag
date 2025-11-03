@@ -1,0 +1,193 @@
+R. v. Champion
+Collection
+Court Martial Appeal Court
+Date
+2021-09-29
+Neutral citation
+2021 CMAC 4
+File numbers
+CMAC-611
+Decision-makers
+Bell, B. Richard
+Decision Content
+Date: 20210929
+Docket: CMAC-611
+Citation: 2021 CMAC 4
+CORAM:
+CHIEF JUSTICE BELL
+BETWEEN:
+SAILOR THIRD CLASS S.J.M. CHAMPION
+Applicant
+and
+HER MAJESTY THE QUEEN
+Respondent
+Heard by online videoconference hosted by the Registry on May 7, 2021.
+Judgment delivered at Ottawa, Ontario, on September 29, 2021.
+REASONS FOR JUDGMENT
+CHIEF JUSTICE BELL
+Date: 20210929
+Docket: CMAC-611
+Citation: 2021 CMAC 4
+CORAM:
+CHIEF JUSTICE BELL
+BETWEEN:
+SAILOR THIRD CLASS S.J.M. CHAMPION
+Applicant
+and
+HER MAJESTY THE QUEEN
+Respondent
+REASONS FOR JUDGMENT
+CHIEF JUSTICE BELL
+I. Overview
+[1] On November 13, 2020, military police arrested and detained Sailor Third Class S.J.M. Champion (Sailor Champion), a sailor posted to Her Majesty’s Canadian Ship Ottawa within CFB Esquimalt, British Columbia, for alleged drunkenness. The following day, on November 14, 2020, the Custody Review Officer (CRO) released Sailor Champion on conditions that included confinement to Nelles Block, his residence, within CFB Esquimalt and that he remain sober. On November 15, 2020, military police again arrested and detained Sailor Champion for allegedly breaching the conditions of his release and drunkenness. He remained in military police detention until November 17, 2020 at which time he attended a custody review hearing before Military Judge C.J. Deschênes. At the time of the custody review hearing, four (4) days after his initial arrest, no charges had yet been laid. At the hearing before Military Judge C.J. Deschênes, Sailor Champion’s counsel contended that pursuant to the opinion of Létourneau, J.A. in R. v. Larocque 2001 CMAC 2 at para. 16 [Larocque], a person arrested and attending a custody review hearing shall be released without conditions if not charged by that time. On this motion the Court is asked to consider whether the imposition of release conditions without charge constitutes a violation of one’s section 7 rights under the Canadian Charter of Rights and Freedoms, s 7, Part 1 of the Constitution Act, 1982, being Schedule B to the Canada Act, 1982 (UK), 1982, c 11 (Charter) to life, liberty and security of the person and the right to be treated in accordance with fundamental justice.
+[2] On November 23, 2020, the Director of Military Prosecutions laid charges against Sailor Champion related to the drunkenness allegation. On November 24, 2020, Sailor Champion’s Commanding Officer decided not to proceed with the charges and, acting pursuant to his authority, stayed the charges. Similarly, on November 27, 2020, Sailor Champion’s Commanding Officer decided not to proceed with any charges relating to the alleged November 15, 2020 breach of conditions.
+[3] For the reasons set out herein, I am of the view the treatment accorded Sailor Champion did not violate the Charter. In the event I am wrong on that conclusion, the violation constitutes a reasonable limit prescribed by law and can be demonstrably justified in a free and democratic society as contemplated by s. 1 of the Charter.
+II. Issues
+[4] On November 23, 2020, Sailor Champion filed and served a notice of motion, the operative parts of which read:
+TAKE NOTICE THAT the Court will be moved by the Applicant for an order that the Form of Direction and Undertaking imposed upon S3 Champion on 17 Nov 2020 as conditions of his release be cancelled and that S3 Champion be released without conditions.
+[…]
+g) The applicant will submit that if a charge is not laid by the time a member appears at a custody review hearing the presiding military judge should release the member without conditions. (R. v. Larocque 2001 CMAC 2, paragraph 16).
+[5] While framed somewhat differently than set out by the applicant, this motion raises two (2) issues, one legal and one factual.
+[6] The legal issue is the following: Does a member of the Canadian Armed Forces (CAF) attending before a military judge at a custody review hearing have the right to be released without conditions if, by the time of the custody review hearing, no charges have yet been laid?
+[7] The factual issue is whether, in the circumstances, the Applicant has demonstrated unreasonable delay in the laying of the charges.
+[8] For the reasons set out below I answer both questions in the negative. I am of the view the National Defence Act, RSC 1985, c. N-5 (NDA) contemplates the release of an accused on conditions prior to the laying of charges and that the legislative process meets constitutional norms. With respect to the factual issue, the Crown did not act with unreasonable delay.
+III. Analysis
+A. Position of the Applicant
+[9] Sailor Champion contends his Section 7 Charter right to life, liberty and security of the person and his right to be treated in accordance with the principles of fundamental justice have been violated. Section 7 reads:
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+[10] Sailor Champion relies upon Larocque at paragraph 17, to advance both his legal and factual assertions: First,
+“[…] A person who is arrested without a warrant because the authorities have reasonable grounds to believe he has committed an offence, whether that person is detained or released, shall be charged as soon as materially possible and without unreasonable delay unless, in the exercise of their discretion, the authorities decide not to prosecute.”
+[11] Second, also set out in set out in paragraph 17 of Larocque, one reads:
+“[…] the Court adopts as a more general principle of fundamental justice the principle of speedy justice which means that a prosecutor must proceed within a reasonable time.”
+[12] Sailor Champion says paragraph 16 of Larocque is instructive and results in a positive answer to both questions on the motion:
+[16] Similarly, if the arrested person is not released, he shall be taken before a justice without unreasonable delay to respond to his charge and be dealt with according to law: see section 503 of the Code. In the military, section 158.1 of the Act requires that a report of custody shall, as soon as practicable, and in any case within twenty-four hours after the arrest, be delivered to the custody review officer. Under section 158.5, if no charge is laid within 72 hours of the arrest, the custody review officer shall determine why a charge has not been laid and reconsider whether it remains necessary to retain the person in custody. Finally, section 159 requires that a person who is not released by a custody review officer shall be taken before a military judge for a release hearing. Sections 159.1 to 159.6 deal with the powers of the military judge at that hearing. It is implicit in the terms of these sections and the powers of the review officer and the military judge that some charges shall by that time have been filed against the person who is arrested and held; if not, that person shall be released from custody.
+[13] Sailor Champion asserts that the admonition in Larocque that the person be “released from custody” if no charges are laid by the time the detainee appears before a military judge means that he or she be released without conditions. I note here that the opinion of Létourneau J.A. relied upon by Sailor Champion is one opinion among three (3) delivered in Larocque. Goodwin J.A. expressly disagreed with Létourneau J.A.’s finding that the appellant’s section 7 Charter right had been infringed (at para. 41) and Meyer J.A. expressed “some doubts as to the existence of an infringement of the accused’s right under section 7 of the Charter” (at para. 33). I also note that the observations of Létourneau, J.A. are obiter. In Larocque, pre-charge conditions were used only to measure the gravity of the pre-charge delay.
+B. Position of the Respondent
+[14] As I have already noted, the respondent contends that a careful reading of Larocque reveals that the justices were not of one mind in their observations regarding section 7 of the Charter. The respondent reminds the court that the purpose of the Code of Service Discipline is to promote the discipline, efficiency, and morale of the CAF (MacKay v. The Queen, [1980] 2 S.C.R. 370, 114 D.L.R. (3d) 393, at p. 400 [MacKay]; R. v. Généreux, [1992] 1 S.C.R. 259, 88 D.L.R. (4th) 110, at p. 293 [Généreux]) and that this must inform any assessment of the Custody Review Hearing process. As such, the imposition of conditions on release may reflect the interests of the chain of command to ensure the military member remains under their authority. The respondent further contends that it is the responsibility of the chain of command to ensure the safety and well-being of their subordinates. This could include addressing mental health issues or addictions about which the member’s unit may be aware.
+[15] On the facts of this case, the respondent contends that military authorities imposed conditions upon Sailor Champion’s release out of a concern for his safety and physical well-being. On November 14, 2020 the CRO chose to keep Sailor Champion in custody for the member’s own safety. This concern carried over to the Custody Review Hearing before Military Judge Deschênes on November 17, 2020.
+[16] The respondent contends that the decision to impose conditions prior to the laying of any charge was necessary to ensure the maintenance of discipline, efficiency and morale and in order that the chain of command could ensure the applicant’s welfare. The chain of command, the respondent asserts, required time to properly consider the implications of the laying of charges in circumstances where other issues, such as mental health or addiction might be at play.
+C. Jurisprudence and statutory provisions
+[17] The facts in Larocque are significantly different from those which present themselves in the circumstances. Master Corporal Larocque, then a member of the Military Police, was charged with criminal harassment, two (2) counts of disobeying the order of a superior, one count of using a CAF vehicle for unauthorized purposes and, subsequently, he was also charged with failing to appear before a military tribunal and being absent without leave. The case proceeded through court martial.
+[18] Master Corporal Larocque was relieved of his powers of a police officer immediately after his arrest, but was not charged for 13 months. The chain of command issued a caution and some restrictions were imposed upon his freedom, including that he have no contact with the alleged victim.
+[19] Master Corporal Larocque filed a motion contending, among other issues, that his section 7 Charter rights to fundamental justice had been violated. The argument was based primarily on the pre-charge delay of over one (1) year between the time of his arrest and the time charges were laid. The military judge dismissed the motion and convicted Master Corporal Larocque on all counts (with the exception of the absent without leave charge to which the Corporal pled guilty) and sentenced him to 54 days of detention, which he (the judge) then stayed.
+[20] On appeal, Master Corporal Larocque alleged a violation of his right to liberty and the security of his person and a failure to be treated in accordance with the principles of fundamental justice arising from the delay in the laying of charges. This court reversed the military judge but did so through three (3) different opinions. Justice Létourneau, the author of paragraphs 16 and 17 referred to herein, relied on the three-step test affirmed in R. v. White, [1999] 2 S.C.R. 417, [1999] S.C.J. No 28 at para. 38 and established in R v S. (R.J.), [1995] 1 S.C.R. 451, [1995] S.C.J. No. 10 at page 479 [R.J.S.]. This test involves: “determining whether there was a deprivation of this right, identifying and defining the principles of fundamental justice at issue and determining whether the deprivation has occurred in accordance with these principles.” (Larocque, supra, at para. 10.)
+[21] In the second stage of the analysis, Justice Létourneau compared the provisions of the Criminal Code (R.S.C., 1985, c. C-46) (Code) with those of the NDA. Justice Létourneau noted that section 495 of the Code establishes that a police officer cannot arrest someone if he or she believes that the public interest could be satisfied without arrest and there exists no reasonable grounds to believe that the person will fail to appear in court. I would add to his list that the arrest is not necessary to preserve evidence. At the time of the Larocque decision, section 156 of the NDA was silent on the issue.
+[22] Létourneau, J.A., also referred to section 505 of the Code which requires that when a person is released, the information shall be laid, as soon as is practicable before a justice and, in any case, no later than the time stated in the appearance documents. Justice Létourneau correctly noted that the NDA is silent on that issue.
+[23] Under civilian criminal law, if a person is not released, pursuant to section 503 of the Code, he or she shall be taken to a justice without unreasonable delay. Under military law, section 158.1 of the NDA governs this process and requires a report of custody be delivered in writing to the CRO within 24 hours. Under section 158.5 of the NDA, if no charge has been laid within 72 hours, the CRO will consider why the person has not been released and determine whether he or she should remain in custody. Pursuant to section 159 of the NDA, if the person is not released, they are to be brought before a military judge. Justice Létourneau, on his own behalf and not on behalf of the Court opined that at the point when a person appears before a military judge, charges must have been laid. If not, that person shall be released from custody. However, Justice Létourneau provides no comment as to whether the release would be with or without conditions. As contended by Sailor Champion, I will presume he meant without conditions.
+[24] As already noted, the facts in the present matter differ significantly from those in Larocque. The delay in the laying of charges in Larocque was over a year whereas the delay in the present case was a matter of a few days. Secondly, the conditions imposed upon Master Corporal Larocque affected his ability to perform his duties for a lengthy period of time with potential negative career impacts. Thirdly, I would note that the issue for the Court in Larocque concerned the lengthy delay in the laying of the charges and not whether they were laid before or after the first appearance before a military judge.
+[25] As noted, the NDA is silent concerning the ability of a military judge, at a custody review hearing, to place conditions on the release of a person when charges have not yet been laid. This silence is intentional. Parliament is presumed to know what the Code of Service discipline and Queen’s Orders and Regulations for the Canadian Forces (QR&O) say. Parliament has chosen not to replicate all the provisions and procedures found in the civilian criminal justice system. This is consistent with Parliament’s and the jurisprudential recognition and affirmation of a separate military justice system designed to meet the particular needs of the CAF. Further, if one considers other provisions in the relevant Division of the Code of Service discipline, it is apparent that the power to impose conditions when releasing an individual is contemplated in several sections without once predicating the ability to impose such conditions on a charge having been laid.
+[26] Sections 158 to 159.7 of the NDA include those sections related to Actions Following Arrest, Initial Review and Review by Military Judge. For ease of reference I set out the relevant provisions:
+Duty to review where charge not laid
+Révision de la mise sous garde
+158.5 If a charge is not laid within seventy-two hours after the person in custody was arrested, the custody review officer shall determine why a charge has not been laid and reconsider whether it remains necessary to retain the person in custody.
+Lorsque aucune accusation n’est portée dans les soixante-douze heures suivant l’arrestation d’une personne sous garde, l’officier réviseur en détermine la raison et vérifie s’il est nécessaire de la maintenir sous garde.
+[27] Section 158.5 provides that when the person is in custody, if a charge has not been laid within 72 hours, the CRO shall determine why the charge has not been laid and whether there is a continued requirement to retain the person in custody. This statutory limit on the timelines associated with charging someone detained offers insight into the obligations of military police, charging authorities and CROs.
+Release with or without conditions
+Conditions éventuelles de mise en liberté
+158.6 (1) The custody review officer may direct that the person be released without conditions or that the person be released and, as a condition of release, direct the person to comply with any of the following conditions:
+158.6 (1) L’officier réviseur peut soit ordonner la libération inconditionnelle de la personne sous garde, soit ordonner sa libération pourvu qu’elle respecte l’une ou l’autre des conditions suivantes qu’il précise :
+(a) remain under military authority;
+a) demeurer sous autorité militaire;
+(b) report at specified times to a specified military authority;
+b) se présenter aux heures et aux autorités qu’il précise;
+(c) remain within the confines of a specified defence establishment or at a location within a geographical area;
+c) rester dans l’établissement de défense ou à l’intérieur de la région qu’il précise;
+(d) abstain from communicating with any witness or specified person, or refrain from going to any specified place; and
+d) s’abstenir de communiquer avec tout témoin ou toute autre personne expressément nommée, ou éviter tout lieu expressément nommé;
+(e) comply with such other reasonable conditions as are specified.
+e) observer telles autres conditions raisonnables qu’il précise.
+[28] Section 158.6 provides the guidelines CROs are expected to follow when releasing a person on conditions. I note there is no requirement for an arrested person to have been charged.
+Review
+Révision
+(2) A direction to release a person with or without conditions may, on application, be reviewed by
+(2) L’ordonnance de libération, inconditionnelle ou sous condition, rendue par l’officier réviseur peut être révisée par le commandant qui a désigné celui-ci ou, lorsqu’il est lui-même commandant, par l’officier immédiatement supérieur devant lequel il est responsable en matière de discipline.
+(a) if the custody review officer is an officer designated by a commanding officer, that commanding officer; or
+En blanc
+(b) if the custody review officer is a commanding officer, the next superior officer to whom the commanding officer is responsible in matters of discipline.
+En blanc
+Powers
+Pouvoirs
+(3) After giving a representative of the Canadian Forces and the released person an opportunity to be heard, the officer conducting the review may make any direction respecting conditions that a custody review officer may make under subsection (1).
+(3) Après avoir donné à la personne libérée et au représentant des Forces canadiennes l’occasion de présenter leurs observations, l’officier qui a effectué une révision aux termes du paragraphe (2) peut rendre toute ordonnance aux termes du paragraphe (1).
+[29] These subsections as well as subsection 158.7(1) cited below outline the review authorities and powers of CROs and military judges. The imposition of conditions is a consideration at all times, but there is no requirement that charges must be laid before conditions may be applied.
+Review by Military Judge
+Révision par le juge militaire
+Review of directions
+Révision des ordonnances
+158.7 (1) A military judge may, on application by counsel for the Canadian Forces or by a person released with conditions and after giving counsel and the released person an opportunity to be heard, review any of the following directions and make any direction that a custody review officer may make under subsection 158.6(1):
+158.7 (1) Le juge militaire peut, sur demande de l’avocat des Forces canadiennes ou de la personne libérée sous condition et après leur avoir donné l’occasion de présenter leurs observations, réviser les ordonnances ci-après et rendre toute ordonnance aux termes du paragraphe 158.6(1) :
+(a) a direction that was reviewed under subsection 158.6(2);
+a) l’ordonnance révisée au titre du paragraphe 158.6(2);
+(b) a direction that was made under subsection 158.6(3); and
+b) celle rendue au titre du paragraphe 158.6(3);
+(c) a direction that was made under this section.
+c) celle rendue au titre du présent article.
+Conditions
+Conditions de l’ordonnance
+(2) A military judge shall not direct that a condition, other than the condition of keeping the peace and being of good behaviour, be imposed unless counsel for the Canadian Forces shows cause why it is necessary that the condition be imposed.
+(2) Le juge militaire ne peut toutefois imposer de conditions autres que celles de ne pas troubler l’ordre public et d’avoir une bonne conduite que si l’avocat des Forces canadiennes en démontre la nécessité.
+[30] At a custody review hearing, a military judge may, among other courses of available action, direct the individual’s release from custody on giving an undertaking to comply with any of the conditions referred to in section 158.6. See s. 159.3(2) of the NDA:
+Release on undertaking
+Mise en liberté sous condition
+159.3 […] (2) If the person in custody shows cause why the person’s retention in custody is not justified, the military judge shall direct that the person be released from custody on giving any undertaking to comply with any of the conditions referred to in section 158.6 that the military judge considers appropriate, unless the person in custody shows cause why the giving of an undertaking is not justified
+159.3[…] (2) Lorsque la personne lui fait valoir l’absence de fondement de sa détention, il ordonne sa mise en liberté, pourvu qu’elle remette une promesse assortie des conditions mentionnées à l’article 158.6 qu’il estime indiquées, à moins qu’elle ne fasse valoir des arguments contre l’application des conditions.
+[31] This is echoed in s. 159.4(1) of the NDA:
+Release with or without undertaking
+Conditions éventuelles de mise en liberté
+159.4 (1) The military judge may direct that the person be released without conditions or that the person be released on the giving of an undertaking to comply with any of the conditions referred to in section 158.6 that the military judge considers appropriate.
+159.4 (1) Le juge militaire peut soit ordonner la libération inconditionnelle de la personne détenue, soit ordonner sa libération pourvu qu’elle remette une promesse assortie des conditions mentionnées à l’article 158.6 qu’il estime indiquées.
+[32] The NDA does not, however, mandate any specific criteria that should be considered by a military judge who makes a decision about whether to impose conditions upon release when no charge has been laid. Still, the imposition of conditions on an individual is necessarily subject to the principles of fundamental justice where such conditions will restrict that individual’s life, liberty or security of person.
+[33] In this case, the Military Judge considered the decision in R. v. Zora, 2020 SCC 14, 388 C.C.C. (3d) 1, where the Court, in the context of a discussion about the need for restraint in the imposition of bail conditions, stated at paragraph 6:
+[…] The principle of restraint requires any conditions of bail to be clearly articulated, minimal in number, necessary, reasonable, least onerous in the circumstances […]
+Guided by these principles of restraint, necessity, and reasonableness, the Military Judge decided to impose some of the conditions recommended by the CAF representative.
+[34] The NDA does not prevent a military judge from placing conditions on the release of an individual who has yet to be charged with an offence. The NDA’s silence provides military judges with the flexibility to address the unique purposes and demands of the military justice system and to do so with the aid of their own military experience and knowledge.
+[35] The Supreme Court of Canada, as well as this Court, have repeatedly affirmed the necessity of a separate military justice system designed to meet the particular needs of the military: MacKay, supra; Généreux, supra; R. v. Moriarity, 2015 SCC 55, [2015] 3 S.C.R. 485 [Moriarity]; R. v. Cawthorne, 2016 SCC 32, [2016] 1 S.C.R. 983 [Cawthorne]; R. v. Stillman, 2019 SCC 40, 436 D.L.R. (4th) 193 [Stillman]; R. v. Royes, 2016 CMAC 1, [2016] C.M.A.J. No 1 [Royes]; R. v. Edwards; R. v. Crépeau; R. v. Fontaine; R. v. Iredale, 2021 CMAC 2 [Edwards et al.]. It inherently follows that the needs of the military justice system differ from those of the civilian justice system. Hence, the reason for the two (2) systems and legitimate differences. I can do no better than quote from David Bright, Q.C., a renowned practitioner of both civilian and military criminal law, during his presentation at the 2020 Court Martial Appeal Court of Canada Educational Conference in Ottawa, Ontario, on February 19, 2020 when he stated: “if the military justice system is to be the same as the civilian criminal justice system then there is no need for the military justice system. I participated in it (the military justice system) my whole career and, if I thought it unfair I would not have participated”. The need for the two (2) systems is not in dispute.
+D. Right to life, liberty and security of the person
+[36] Since the NDA permits conditions to be placed on the release of an individual before a charge has been laid, it is next necessary to consider whether the conditions placed on Sailor Champion prior to him being charged constituted a violation of his s. 7 Charter right to life, liberty and security of the person.
+[37] In Blencoe v. British Columbia, 2000 SCC 44, [2000] 2 S.C.R. 307 at para. 77, the Court concluded that section 7 liberty applies not just to physical restraint, but to the “fundamental personal choices” available to an accused. The question is one of whether the state has interfered with the individual’s ability to make fundamental personal choices. In R. v. Beare, [1988] 2 S.C.R. 387, [1987] S.C.J. No. 92 at para. 59, Thomson Newspapers v. Can, [1990] 1 S.C.R. 425, [1990] S.C.J. No 23 at para. 179-180 and R. v. Heywood, [1994] 3 S.C.R. 761, [1994] S.C.J. No. 101 at para. 55, the Supreme Court concluded that imprisonment, statutory duties to submit to fingerprinting, to give oral testimony or laws restricting a person’s right to loiter in certain areas, are deprivations of liberty attracting principles of fundamental justice.
+[38] However, not all conditions which may affect choices or decisions of a private nature will necessarily constitute deprivations of the interests protected under s. 7 of the Charter. In Association of Justice Counsel v. Canada (Attorney General), 2017 SCC 55, [2017] 2 S.C.R. 456 the Court stated that inherently private choices are only protected under s. 7 if “they implicate basic choices going to the core of what it means to enjoy individual dignity and independence” (at para. 49 citing Godbout v. Longueuil (City), [1997] 3 S.C.R. 844, 152 D.L.R. (4th) 577, at para. 66). The Supreme Court of Canada has stated that “a taste for fatty foods, an obsessive interest in golf and a gambling addiction are not afforded constitutional protection” as inherently private choices under s. 7 of the Charter (at para. 50 citing R. v. Malmo-Levine; R. v. Caine, 2003 SCC 74, [2003] 3 S.C.R. 571 at para. 86). Consequently, while conditions imposed at a custody review hearing may constitute deprivations of s. 7 interests, this will not necessarily always be the case.
+[39] In the present case, the conditions imposed upon Sailor Champion by the Military Judge included that he remain sober, that he refrain from attending establishments whose primary purpose is the conveyance of alcohol, and that he be confined to his residence on base between the hours of 2200 hours and 0600 hours. I am satisfied such restrictions constitute deprivations of one or more of the interests protected by s. 7 of the Charter. Sailor Champion could not make life decisions about where to go, who to meet and what to drink.
+E. Were the deprivations of life, liberty and security of the person imposed in accordance with principles of fundamental justice?
+[40] The principles of fundamental justice allegedly impugned in this case are those articulated by Létourneau J.A. in Larocque at para. 17: (1) that “a person arrested without a warrant […] shall be charged as soon as materially possible and without unreasonable delay unless […] the authorities decide not to prosecute”, and (2) the “more general principle […] of speedy justice, which means that a prosecutor must proceed within a reasonable time.”
+[41] The question therefore, is: 1) whether the method by which release conditions were imposed by the CRO and by the military judge at the custody review hearing when charges had not been laid; and 2) whether the delay in laying the charges, were in conflict with principles of fundamental justice?
+[42] Initially, Sailor Champion was arrested for alleged drunkenness on November 13, 2020. It was reasonable that the chain of command take time to consider whether disciplinary action in the form of a charge under the Code of Service Discipline would be appropriate. The chain of command is clothed with the responsibility, not only to maintain discipline and morale, but also to promote the welfare of subordinates. Sailor Champion had recently completed a drug rehabilitation program, a fact which merited further consideration about whether the disciplinary process would be the most appropriate means of addressing Sailor Champion’s conduct.
+[43] Following his arrest on November 13, 2020 and before he could report as ordered by his chain of command on November 16, 2020, he was re-arrested on November 15, for alleged breach of conditions, including being in possession of drugs. It was reasonable that these new facts be considered, not only in relation to whether a charge should be laid for breach of conditions, but also to re-evaluate how to appropriately deal with the alleged offence of November 13. The personal circumstances of Sailor Champion, the nature of his alleged offences, and the close timeframe in which they occurred, made a short delay reasonable. Recall that during this short delay, Sailor Champion, by statute had his detention and conditions reviewed by both a CRO and a military judge.
+[44] In the circumstances, I am satisfied the manner of imposing the conditions and the statutory framework under which they were imposed were in accordance with principles of fundamental justice.
+[45] I now turn to whether the delay in laying charges, in and by itself constituted a violation of fundamental justice. The need to address this question separately arises from the applicant’s reliance upon the obiter of Létourneau J.A. in Larocque, that a person must be released without conditions unless they have been charged with an offence. While this has never been expressly identified as a principle of fundamental justice, it is, of course, consistent with the practice in the civilian criminal justice system whereby bail conditions are only imposed where an individual has been charged with an offence.
+[46] I would immediately answer this question in the negative. The civilian criminal justice system is not the measure against which the military justice system must be measured. The constitutionality of any aspect of the military justice system must be measured against the Charter, the constitutional division of powers and relevant jurisprudence. It is the minimal constitutional norms which must guide the analysis. The short delays encountered in this case were all contemplated by the NDA and all time limits were respected. The delays were reasonable and for a valid statutory purpose. They were not, in my view, in violation of Sailor Champion’s right to fundamental justice.
+F. Presuming I am wrong and there was a violation of Sailor Champion’s right to fundamental justice is that violation saved by s. 1 of the Charter?
+[47] If there is a violation of s. 7, it can only be saved if it is a reasonable limit prescribed by law in a free and democratic society under s. 1 of the Charter: Canada (Attorney General) v. Bedford, 2013 SCC 72, [2013] 3 S.C.R. 1101 at paras. 124-129; Carter v. Canada (Attorney General), 2015 SCC 5, [2015] 1 S.C.R. 331 at para. 95; R. v. Michaud, 2015 ONCA 585, 127 O.R. (3d) 81, leave to appeal to the Supreme Court of Canada refused, 2016 Carswell Ont 7197.
+[48] One of the unique features of the military justice system is that it deals primarily with its own employees, members of the CAF. This is another key distinction between it and the civilian criminal justice system. While the civilian system may occasionally deal with its own employees, it will not be doing so in the vast majority of cases, and, even then, not in circumstances remotely connected to military life.
+[49] The respondent is correct in asserting that the chain of command has obligations to ensure the welfare of their subordinates and, often times, may have insight into a person’s history that can inform the decision-making process. This does not constitute a weakness of the military justice system, rather, it is demonstrative of the military ethos of team and community support. The military justice system is clothed with purposes unknown to the civilian criminal justice system. These include the maintenance of discipline, efficiency and morale (MacKay, supra; Généreux, supra), the re-integration of military personnel into the service (one of the principles of sentencing set out in s. 203.1 of the NDA) and the responsibility of Officers toward those under their command as set out in article 4.02 of the QR&O. See, in this regard, Edwards et al., supra; R. v. Proulx; R. v. Cloutier, 2021 CMAC 3.
+[50] The ability to impose conditions upon release even where a charge has yet to be laid provides the time and flexibility for the chain of command to consider the circumstances surrounding an alleged offence, the unique circumstances of an alleged offender, particularly where there may be concerns about substance abuse or mental health, and consider the appropriateness of alternative methods of addressing the alleged conduct. For example, in some cases, conduct which could result in proceedings under the Code of Service Discipline could alternatively be dealt with administratively, including counselling (see, e.g., Defence Administrative Orders and Directives 5019-4, Remedial Measures).
+[51] It is trite law that the fact of laying a charge, in and of itself, can have serious consequences to one’s career and ability to pass through international borders.
+[52] I am of the view that the Canadian military justice system, which permits a member be detained without charges or have conditions imposed upon his or her release, for up to 72 hours, before appearing before a military judge constitutes a reasonable limit prescribed by law and is demonstrably justified in a free and democratic society. This view is further enforced by the requirement, in the interim, that the detained person be brought before a CRO who, although not a judge, is an Officer with all of the responsibilities toward his or her sub-ordinates set out in the NDA and QR&O, and specifically, article 4.02 of the QR&O. I am also of the view that once a military judge is involved in the process their power to impose conditions, without charge, is a reasonable limit, justified in a free and democratic society.
+[53] Charter values and Charter rights must be considered within the context of the environment in which they are being applied. In the military, it is reasonable that commanders, military police, CROs and military judges have the discretion to take action and issue orders including conditions on release even for those who have not been charged. This authority is consistent with the lawful restrictions the chain of command could impose on subordinates in the course of any other aspect associated with their duties.
+IV. Conclusion
+[54] The NDA permits a military judge to impose conditions on release even if no charge has yet been laid. Although I am of the view that the conditions imposed upon Sailor Champion constituted deprivations to his life, liberty and security of the person, they were not imposed contrary to the principles of fundamental justice, in violation of s. 7 of the Charter. Presuming, I am wrong on that latter point, I am satisfied that within the context of service within the CAF, including the responsibilities of commanders, the right to appear before a Custody Review Officer within 24 hours following arrest, and the right to appear before a military judge within 72 hours, if not released, and the requirement that charges be laid as expeditiously as circumstances permit, any deprivation is prescribed according to law, reasonable and demonstrably justified in a free and democratic society.
+[55] The Court orders that the MOTION IS DISMISSED.
+“B. Richard Bell”
+Chief Justice
+COURT MARTIAL APPEAL COURT OF CANADA
+NAMES OF COUNSEL AND SOLICITORS OF RECORD
+DOCKET:
+CMAC-611
+STYLE OF CAUSE:
+SAILOR THIRD CLASS S.J.M. CHAMPION v. HER MAJESTY THE QUEEN
+Heard by online videoconference hosted by the Registry On May 7, 2021
+REASONS FOR JUDGMENT BY:
+CHIEF JUSTICE BELL
+DATED:
+September 29, 2021
+APPEARANCES:
+LCol D. Bernsten
+For The APPLICANT
+Maj S. Poitras
+For The Respondent
+SOLICITORS OF RECORD:
+Defence Counsel Services
+Gatineau (Quebec)
+For The applicant
+Canadian Military Prosecution Service
+Ottawa (Ontario)
+For The Respondent

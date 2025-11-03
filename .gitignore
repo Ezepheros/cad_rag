@@ -1,0 +1,126 @@
+# ============================================
+# Python & General Dev Environment
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Build and packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================================
+# Caches, Logs, and Temp Files
+# ============================================
+
+# Python caches and logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache folders (HuggingFace, transformers, etc.)
+.cache/
+__pycache__/
+*.mypy_cache/
+*.pytest_cache/
+*.ruff_cache/
+*.hypothesis/
+
+# VSCode & IDE metadata
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ============================================
+# Data, Models, and Large Files
+# ============================================
+
+# Datasets
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.feather
+
+# Model checkpoints, embeddings, indexes
+models/
+checkpoints/
+*.pt
+*.bin
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+*.npy
+*.npz
+*.faiss
+*.index
+*.pq
+
+# Intermediate or derived data
+outputs/
+results/
+runs/
+wandb/
+lightning_logs/
+logs/
+
+# ============================================
+# System / Miscellaneous
+# ============================================
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary project files
+tmp/
+temp/
+
+# ============================================
+# Keep these file types (do NOT ignore)
+# ============================================
+
+!*.py
+!*.ipynb
+!*.sh
+!*.bash
+!*.yml
+!*.yaml
+!*.json
+!*.toml
+!*.cfg
+!*.ini
+!*.conf
+!*.txt
+!*.md
+!*.gitignore
+!*.gitattributes

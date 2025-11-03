@@ -1,0 +1,96 @@
+Democracy Watch v. Canada (Attorney General)
+Court (s) Database
+Federal Court of Appeal Decisions
+Date
+2023-02-21
+Neutral citation
+2023 FCA 39
+File numbers
+A-169-21
+Notes
+Digest
+Decision Content
+Date: 20230221
+Docket: A-169-21
+Citation: 2023 FCA 39
+Present: STRATAS J.A.
+BETWEEN:
+DEMOCRACY WATCH
+Applicant
+and
+ATTORNEY GENERAL OF CANADA
+Respondent
+Dealt with in writing without appearance of parties.
+Order delivered at Ottawa, Ontario, on February 21, 2023.
+REASONS FOR ORDER BY:
+STRATAS J.A.
+Date: 20230221
+Docket: A-169-21
+Citation: 2023 FCA 39
+Present: STRATAS J.A.
+BETWEEN:
+DEMOCRACY WATCH
+Applicant
+and
+ATTORNEY GENERAL OF CANADA
+Respondent
+REASONS FOR ORDER
+STRATAS J.A.
+[1] Democracy Watch moves for disclosure of documents from the Conflict of Interest and Ethics Commissioner. It says that disclosure is necessary for it to prosecute its application for judicial review. It has requested the documents under Rule 317 and the Commissioner has refused under Rule 318.
+A. Background
+[2] In its application for judicial review, Democracy Watch seeks to set aside a decision of the Conflict of Interest and Ethics Commissioner. The decision concerns the alleged conduct of the Prime Minister in participating in two decisions involving a charity known as “WE Charity”.
+[3] In support of its application, Democracy Watch raises three grounds for review: two alleged errors of law dealing with statutory interpretation and an error of fact.
+[4] Soon after Democracy Watch brought its application, the Commissioner moved to strike the application. The Commissioner relied upon, among other things, a bar against raising certain grounds of review in this Court: Conflict of Interest Act, S.C. 2006, c. 9, s. 66. All of the grounds Democracy Watch raises are caught by this bar.
+[5] This Court declined to deal with the Commissioner’s motion: Democracy Watch v. Canada (Attorney General), 2022 FCA 208. Instead, it adjourned it to the panel hearing the merits of the application. It did so because of a serious conflict in the Court’s jurisprudence:
+Canada (Attorney General) v. Best Buy Canada Ltd., 2021 FCA 161, which says that partial restrictions on judicial review, such as the bar here, are contrary to the rule of law and should be ignored, just as courts ignore privative clauses.
+Canada (Citizenship and Immigration) v. Canadian Council for Refugees, 2021 FCA 72, [2021] 3 F.C.R. 294 at paras. 102-103 which says that partial restrictions on judicial review, such as section 66 of the Conflict of Interest Act, are valid as long as they are supported by a pressing and valid government objective and are otherwise consistent with the rule of law, the ability of the judiciary to assess whether state action conforms with the Constitution, and the requirement of fair and impartial administration of justice.
+A panel of this Court will resolve this legal conflict.
+B. The disclosure motion
+[6] Democracy Watch requests disclosure of all of the material gathered during the Commissioner’s investigation that the Commissioner relied upon in making the decision. Much of that material was supplied in confidence, at least in part based on assurances of confidentiality under the Act. If Democracy Watch’s request is upheld, much confidential material will be revealed.
+[7] Democracy Watch’s disclosure request places the Commissioner in an untenable position. The Commissioner is being asked to disclose confidential documents in support of a ground that might be barred under section 66. If ultimately the panel hearing the application finds that section 66, as a partial restriction on judicial review, applies to bar some or all of the grounds raised in this application, then confidential material that never should have been disclosed will have been disclosed.
+[8] Democracy Watch proposes protections to ensure that any material disclosed remains confidential as much as possible. For example, it proposes that confidential material will be disclosed only to its counsel and the panel and that both will be operating under strict prohibitions against disclosure.
+[9] But this is not a full answer to the Commissioner’s concern. Confidentiality will no longer be all-encompassing: some, albeit very few, will have access to the material, arguably contrary to the expectations and legal rights of those who supplied evidence during the Commissioner’s investigation.
+[10] The confidential material sought by Democracy Watch is relevant to only one ground for review: an alleged error of fact. The other two grounds concern statutory interpretation, a purely legal issue requiring the Court to examine the text, context and purpose of the Act. The confidential material is irrelevant to that task.
+C. The solution
+[11] The conundrum posed by this disclosure motion can be solved by Rule 107 of the Federal Courts Rules. Under Rule 107(1), the Court can order that “issues in a proceeding be determined separately”.
+[12] Rule 107(1), which applies to a “proceeding”, applies here. An application for judicial review is “proceeding”: see Rule 2 (definition of “application”); see also Lukács v. Swoop Inc., 2019 FCA 145 at para. 9.
+[13] Thus, the Court has the power under Rule 107 to order that an issue in this application for judicial review be determined separately. Here, the issue is the conflict in the Court’s jurisprudence about whether section 66 of the Conflict of Interest Act bars the grounds the applicant raises in its application: see paragraph 5 above.
+[14] If the Court decides that section 66 bars the grounds, the Court must dismiss the application. If the Court decides that section 66 does not bar the grounds, in particular the ground of error of fact raised by Democracy Watch, the Court will have to consider the merits of the application. In that case, the first item of business will be whether the Commissioner has to disclose confidential material and, if so, under what conditions.
+[15] Proceeding in this way ensures that disclosure under strict protective conditions—if it happens at all—will be only as a very last resort.
+[16] Therefore, I will order that this application will proceed in two stages:
+Stage 1. The Court shall hear and determine the legal issue whether section 66 of the Conflict of Interest Act, in whole or in part, applies (the legal conflict mentioned in paragraph 5, above). If the Court decides that section 66 applies, it may, if appropriate, dismiss the application. If the Court decides that section 66, in whole or in part, does not apply, it shall issue an interim declaratory judgment to that effect; and in that judgment it shall also adjourn the remainder of the application for the prosecution of Stage 2.
+Stage 2. The Court shall hear and determine some or all of the grounds raised by the applicant that remain after section 66 is applied.
+[17] Since the issues in Stage 1 are entirely severable from Stage 2, it is legally permissible for a differently constituted panel to determine the issues in Stage 2. This will expedite things. If the three judges on Stage 1 were seized of the entire application, it might be a long time before they could hear Stage 2. In part, this is because the judges of this Court are scheduled long in advance to hear cases in many different cities across Canada.
+[18] Under Rule 107(2), the Court can “give directions regarding the procedures to be followed”. The procedures for each stage shall be as follows:
+Stage 1. Within twenty days, the respondent will file a certified tribunal record for Stage 1. That record will contain only the documents necessary to assist the panel in deciding the legal conflict. Only public documents will be included. The parties’ application records will contain only the documents necessary to assist the panel in deciding the legal conflict. The applicant’s record and the respondent’s record will be filed on April 3, 2023 and May 24, 2023 respectively. The applicant shall file a requisition for hearing ten days after the filing of the respondent’s record.
+Stage 2. Within sixty days of the Court’s judgment on Stage 1, the applicant will move in writing for an order requiring the respondent to disclose material necessary for the determination of the issues in Stage 2. The procedures for the remainder of Stage 2 will be governed by the order of the Court made on the disclosure motion.
+[19] The legal conflict mentioned in paragraph 5 above—which this Court will resolve in Stage 1—has been live in cases across Canada and also in recent cases in this Court: Democracy Watch, above; Canadian National Railway Company v British Columbia, 2022 BCSC 2263 at paras. 67-68; Prairies Tubulars (2015) Inc. v. Canada (Border Services Agency), 2022 FCA 92 at para. 17; BCE Inc. v. Québecor Média Inc., 2022 FCA 152 at paras. 55-58; Yatar v. TD Insurance Meloche Monnex, 2022 ONCA 446 at paras. 53-57, seemingly reversing Yatar v TD Insurance Meloche Monnex, 2021 ONSC 2507, 157 O.R. (3d) 337 at paras 28-29 and Fratarcangeli v North Blenheim Mutual Insurance Company, 2021 ONSC 3997 at para 63 on this point. The issue split the Supreme Court of the United Kingdom in four ways in R (Privacy International) v Investigatory Powers Tribunal, [2019] UKSC 22.
+[20] It has also been the subject of academic comment. According to the well-respected academic commentator Mark Mancini, Best Buy is “questionable” and “inconsistent with other authority” and this “really important” issue is “not clearly decided yet”: see Issues 4, 45, 57 and 71 of the Sunday Evening Administrative Review (blog) (online: https://sear.substack.com/p/issue-4-august-8-2021, https://sear.substack.com/p/issue-45-june-19-2022, https://sear.substack.com/p/issue-57-september-11-2022 and https://sear.substack.com/p/issue-71-administrative-law-wrapped). According to Professor Paul Daly, a leader in the administrative law academy, “[t]his issue is going to run and run and run, as long the content of the core constitutional minimum of judicial review remains obscure”: see “Vavilov on the Road” in Administrative Law Matters (blog) (online: https://www.administrativelawmatters.com/blog/2021/08/12/vavilov-on-the-road/).
+[21] In light of the uncertainty and importance of this issue, a party may well seek leave to appeal to the Supreme Court of Canada from this Court’s judgment on Stage 1. Accordingly, in its order on this motion, the Court will provide that if a party moves for leave to appeal to the Supreme Court of Canada from the judgment in Stage 1, Stage 2 will be stayed until the Supreme Court dismisses the leave motion or, if the Supreme Court grants leave, the final judgment on the appeal. In such a circumstance, the applicant’s disclosure motion in Stage 2 shall be brought after the stay has expired.
+[22] My order will also preserve the ability of a panel to make any order necessary for the orderly and proper conduct of the application.
+[23] In the result, the motion has met with a small amount of success but on grounds different from those raised by the parties. Therefore, I will order no costs on the motion.
+"David Stratas"
+J.A.
+FEDERAL COURT OF APPEAL
+NAMES OF COUNSEL AND SOLICITORS OF RECORD
+DOCKET:
+A-169-21
+STYLE OF CAUSE:
+DEMOCRACY WATCH v. ATTORNEY GENERAL OF CANADA
+MOTION DEALT WITH IN WRITING WITHOUT APPEARANCE OF PARTIES
+REASONS FOR ORDER BY:
+STRATAS J.A.
+DATED:
+February 21, 2023
+WRITTEN REPRESENTATIONS BY:
+Michael Fisher
+For The Applicant
+Michael Aquilino
+For The Respondent
+SOLICITORS OF RECORD:
+Ravenlaw LLP
+Ottawa, Ontario
+For The Applicant
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+For The Respondent

@@ -1,0 +1,52 @@
+Canada Employment Insurance Commission v. W. G.
+Collection
+Employment Insurance (EI)
+Decision date
+2017-06-27
+Neutral citation
+2017 SSTADEI 247
+Reference number
+AD-17-52
+Member
+Pierre Lafontaine
+Division
+Appeal Division
+Decision
+Appeal allowed
+Related decisions
+SST - Canada Employment Insurance Commission v. W. G. - 2017 SSTADEI 42 - 2017-02-06 - Appeal Division
+Decision Content
+On this page
+Decision Introduction Type of hearing Applicable law Issue Submissions Standard of review Analysis Conclusion
+Reasons and decision Decision [1] The appeal is allowed, the decision of the General Division of the Social Security Tribunal of Canada (Tribunal) is rescinded, and the Respondent’s appeal before the General Division is dismissed.
+Introduction [2] On December 20, 2016, the Tribunal’s General Division determined that the Respondent had left his employment with just cause in accordance with sections 29 and 30 of the Employment Insurance Act (Act).
+[3] The Appellant requested leave to appeal to the Appeal Division on January 18, 2017. Leave to appeal was granted on February 6, 2017.
+Type of hearing [4] The Tribunal held a teleconference hearing for the following reasons:
+the complexity of the issue under appeal; the fact that the parties’ credibility is not anticipated to be a prevailing issue; the information in the file, including the need for additional information; and the requirement under the Social Security Tribunal Regulations to proceed as informally and as quickly as circumstances, fairness, and natural justice permit.
+[5] At the hearing, Louise Laviolette represented the Appellant. The Respondent also attended the hearing.
+Applicable law [6] Subsection 58(1) of the Department of Employment and Social Development Act (DESD Act) states that the only grounds of appeal are the following:
+a) the General Division failed to observe a principle of natural justice or otherwise acted beyond or refused to exercise its jurisdiction; b) The General Division erred in law in making its decision, whether or not the error appears on the face of the record; or c) The General Division based its decision on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it.
+Issue [7] The Tribunal must decide whether the General Division committed an error when it concluded that the Respondent had just cause to leave his employment pursuant to sections 29 and 30 of the Act.
+Submissions [8] The Appellant submits the following arguments in support of the appeal:
+The correct legal test for just cause and the question to be resolved was whether the Respondent, having regard to all the circumstances, had reasonable alternatives to immediately leaving his employment. The Federal Court of Appeal confirmed that the question of reasonable alternatives is a necessary and non-severable element of just-cause determinations, even if a claimant brings themselves within one of the circumstances listed in paragraph 29(c) of the Act. Finding otherwise is an error of law. The General Division made an erroneous finding of fact in a perverse manner. At paragraph 17 of the General Division’s decision, it finds that the Respondent requested a retirement package and retired because he was not satisfied with his working conditions. However, it then finds in paragraphs 21 and 22 that the conditions pointed to implicit undue pressure from the employer, leaving the Respondent with no option but to accept the terms offered and to leave his employment. The General Division failed to explain why it had relied solely on the Respondent’s testimony and why it had simultaneously disregarded evidence from the employer explaining changes to the work situation. It further failed to explain why it gave no weight to the Respondent’s own statement that he would have continued working for this employer had he been allowed to use the company vehicle. The Respondent made a personal choice to request retirement rather than to pursue alternatives, such as discussing his dissatisfaction with the employer. Failing resolution, he could still have remained employed at the same salary with the same benefits while securing other employment.
+[9] The Respondent submits the following arguments against the appeal:
+The employer pressured him to leave his employment when he returned from his sick leave. He went to his superior to discuss the situation and to ask what the company would offer him if he left his job. The General Manager then offered him a three-month package, which he accepted, and he immediately signed the letter of resignation. The General Division did not err in fact and in law in making its decision.
+Standard of review [10] The Appellant pleads that the Appeal Division does not owe any deference to the General Division’s conclusions with respect to questions of law, regardless of whether the error appears on the face of the record. However, for questions of mixed fact and law and questions of fact, the Appeal Division must show deference to the General Division. It can intervene only if the General Division based its decision on an erroneous finding of fact that it had made in a perverse or capricious manner or without regard for the material before it—Pathmanathan v. Office of the Umpire, 2015 FCA 50.
+[11] The Respondent made no submissions regarding the applicable standard of review.
+[12] The Tribunal notes that the Federal Court of Appeal in the case of Canada (Attorney General) v. Jean, 2015 FCA 242, indicates in paragraph 19 of its decision that “[w]hen it acts as an administrative appeal tribunal for decisions rendered by the General Division of the Social Security Tribunal, the Appeal Division does not exercise a superintending power similar to that exercised by a higher court.”
+[13] The Federal Court of Appeal further indicated the following:
+Not only does the Appeal Division have as much expertise as the General Division of the Social Security Tribunal and thus is not required to show deference, but an administrative appeal tribunal also cannot exercise the review and superintending powers reserved for higher provincial courts or, in the case of “federal boards”, for the Federal Court and the Federal Court of Appeal.
+[14] The Court concluded that “[w]here it hears appeals pursuant to subsection 58(1) of the Department of Employment and Social Development Act, the mandate of the Appeal Division is conferred to it by sections 55 to 69 of that Act.”
+[15] The mandate of the Tribunal’s Appeal Division as described in Jean was later confirmed by the Federal Court of Appeal in Maunder v. Canada (Attorney General), 2015 FCA 274.
+[16] Therefore, unless the General Division failed to observe a principle of natural justice, erred in law, based its decision on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it, the Tribunal must dismiss the appeal.
+Analysis [17] The issue under appeal before the General Division was whether the Respondent had voluntarily left his employment without just cause pursuant to sections 29 and 30 of the Act.
+[18] Based on the information on file, the Appellant concluded that the Respondent could not be paid benefits because he had voluntarily left his employment without just cause. On December 30, 2016, the General Division allowed the Respondent’s appeal on the basis that his working conditions were such that it pointed to implicit undue pressure from the employer where the Respondent had no real option other than to accept the terms offered to him and leave his employment.
+[19] The facts of the present case are not in dispute. The Respondent stated that he had a heart attack on March 19, 2014, and that he had been on long-term disability until April 2015, at which time he returned to work. The employer phased out his work. They took his cell phone and company car; they gave him a job with no responsibilities and continued to phase him out. He called his boss in early January and they offered him a three-month extended salary and he took the package. He felt that it was best to take the offer as he was unhappy in the position. The job would still have been available if he had chosen to stay. He had not searched for alternate employment prior to leaving.
+[20] Whether one had just cause to voluntarily leave an employment depends on whether he or she, having regard to all the circumstances, had no reasonable alternative to leaving, including several specific circumstances listed in section 29 of the Act. The burden of establishing just cause rests on the Respondent.
+[21] Although the General Division correctly stated the applicable legal test, the Tribunal finds that it failed to apply said test to the facts of the case and to ask itself whether the Respondent, having regard to all the circumstances, had no reasonable alternative to leaving his employment. Therefore, the test was not applied and it was not interpreted correctly.
+[22] The Tribunal is therefore justified to intervene and render the decision that the General Division should have rendered.
+[23] Despite the numerous circumstances described in paragraph 29(c) of the Act, of what would constitute just cause for voluntarily leaving an employment, the primary question remains the same: Did the Respondent have no reasonable alternative to leaving his employment?
+[24] The Tribunal finds that the Respondent could have stayed and performed his assigned duties after he had come back from his sick leave instead of asking his employer to submit an offer for him to retire. The Respondent could also have made efforts to secure other employment before leaving his job.
+[25] Contrary to the General Division’s conclusion, the evidence shows that, rather than the employer, it was the Respondent who, unhappy with his working conditions, took the initial steps to terminate his own employment. The job would still have been available if he had chosen to stay. The Tribunal is also not convinced that the Respondent’s working conditions were intolerable to the point that they left him with no option but to resign immediately.
+[26] The Tribunal finds that, having regards to all the circumstances, the Respondent had reasonable alternatives to leaving his employment when he did.
+Conclusion [27] The appeal is allowed, the General Division’s decision is rescinded, and the Respondent’s appeal before the General Division is dismissed.

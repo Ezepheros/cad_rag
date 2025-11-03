@@ -1,0 +1,139 @@
+Gutbucket Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-22
+Neutral citation
+2015 TCC 156
+File numbers
+2012-2604(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-2604(GST)I
+BETWEEN:
+GUTBUCKET INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 9, 2013 and April 13, 2015,
+at Hamilton, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Sam Sorbara
+Counsel for the Respondent:
+Dominique Gallant
+Jan Jensen
+JUDGMENT
+The appeal from an assessment under the Part IX of the Excise Tax Act for the reporting periods between January 1, 2007 and December 31, 2009 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of June 2015.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2015 TCC 156
+Date: 20150622
+Docket: 2012-2604(GST)I
+BETWEEN:
+GUTBUCKET INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal from an assessment by the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act (the “Act”) for the reporting periods between January 1, 2007 and December 31, 2009 (the “Relevant Period”).
+[2] In its returns for the Relevant Period, Gutbucket Inc. (the “Appellant”) reported nil revenue and claimed input tax credits (“ITCs”) in the following amounts:
+January 1, 2007 – December 31, 2007
+$880.32
+January 1, 2008 – December 31, 2008
+$763.71
+January 1, 2009 – December 31, 2009
+$911.84
+Total
+$2,555.87
+[3] The Minister reassessed the Appellant, disallowing the ITCs claimed by the Appellant. Concurrent notices of reassessment were issued on June 25, 2010.
+[4] In disallowing the Appellant’s ITCs and determining the Appellant’s net tax for the Relevant Period, the Minister relied on the assumptions of fact made in paragraph 12 of the Reply to the Notice of Appeal. In particular, in paragraph 12.e. of the Reply, the Minister alleges that “. . . the appellant did not obtain documentation to substantiate the ITCs claimed for the reporting periods and did not substantiate that it carried on any commercial activity or made any taxable supplies during the reporting periods”.
+[5] Furthermore, the Minister noted that substantially all of the ITCs claimed by the Appellant related to hydro, Union Gas and telephone expenses incurred with respect to real estate owned by the Appellant. The Minister alleges that the real estate was not used in the course of a commercial activity, hence the Appellant was not entitled to claim ITCs for GST paid with respect to the aforementioned expenses.[1]
+[6] In a letter dated February 2, 2012, [2] the Canada Revenue Agency (the “CRA”) requested that the Appellant provide further information on the consulting business that it alleged it carried on and in respect of which the ITCs were claimed. The CRA observed that the Appellant owned two residential properties located respectively in Guelph and in Waterloo, Ontario. The CRA also noted that the ITCs summarized in an Excel spreadsheet consisted mostly of GST paid for maintenance and utility expenses attributable to the Appellant’s real estate holdings. Joana Almeida, the CRA appeals officer charged with reviewing the Appellant’s appeal, asked the Appellant to explain how these two properties were used by the Appellant in the pursuit of its consulting activities.
+[7] The Appellant refused to respond to this letter. In its Notice of Appeal, the Appellant states that the CRA was not entitled to this information for the following reasons:
+8. CRA is not entitled to the information requested in its letter dated February 2, 2012. If the taxpayer generates sales from commercial activity and reports these sales as income (the taxpayer reported sales of at least $5,000.00 in 2010, sales in excess of $50,000.00 in 2011, and will report significantly higher sales in 2012) and if the taxpayer can establish that the ITC’s are not in connection with exempt supplies (which the taxpayer has established), then the ITC’s are entitled to be claimed as against the commercial activity of the taxpayer without CRA improperly denying the ITC’s or without CRA searching for a specious rationale for denying the ITC’s. It is an untenable position on the part of CRA to suggest that all GST/HST collected in connection with the taxpayer’s commercial activity must be paid to CRA but the ITC’s incurred by the taxpayer should be disregarded.
+(Emphasis added.)
+[8] According the CRA’s letter of February 2, 2012, the Appellant had not established to the CRA’s satisfaction that its real estate was being used in the course of a commercial activity carried on by it. In light of the Appellant’s refusal to respond to the CRA’s request, Ms. Almeida confirmed the assessments.
+[9] Sam Sorbara testified on behalf of the Appellant. He is the sole shareholder of the Appellant and a practising attorney. He advised the Court that he was unfamiliar with tax litigation. For this reason, I explained to him that the Appellant bears the burden of establishing on a prima facie basis that the assumptions of fact made by the Minister in the Reply to the Notice are: (i) incorrect, or (ii) were not made by the Minister in assessing the Appellant, or (iii) do not support the Minister’s assessment.
+[10] Mr. Sorbara testified that the Appellant owned two properties, one being a condominium located at 413‑5 Father David Bauer Drive in Waterloo, Ontario. The witness explained that this property is used by the Appellant to store a rare book collection. Mr. Sorbara offered the following explanation with respect to the Appellant’s interest in its rare book collection.
+JUSTICE HOGAN: Okay. And 413 Father David in Waterloo --
+MR. SORBARA: Yes.
+JUSTICE HOGAN: -- what is that? A condominium?
+MR. SORBARA: Gutbucket -- yes, a condominium.
+JUSTICE HOGAN: And what goes on?
+MR. SORBARA: Gutbucket has a rare book collection, which it will eventually sell, and that condominium is stacked from top to bottom with rare books or collectible books.
+JUSTICE HOGAN: Stuffed top to bottom?
+MR. SORBARA: Yes.
+JUSTICE HOGAN: Have you been just buying the books? Have you sold any books?
+MR. SORBARA: I have sold some on occasion, but right now, it is really the acquisition phase. It is probably --
+JUSTICE HOGAN: So you are building up an inventory?
+MR. SORBARA: Oh, yes, big inventory. Over 2000 titles.
+JUSTICE HOGAN: And you are saying you are storing these books in that property in question?
+MR. SORBARA: Yes, I am.
+JUSTICE HOGAN: And your intent is what? To buy the books and resell them?
+MR. SORBARA: Yes, eventually. Eventually, yes.
+JUSTICE HOGAN: And when you say -- what type of rare books are you --
+MR. SORBARA: First editions. First editions of literature.
+JUSTICE HOGAN: Give me an example.
+MR. SORBARA: A signed first edition of Ayn Rand's "Atlas Shrugged."
+JUSTICE HOGAN: Okay.
+MR. SORBARA: A title I am sure you know. Everyone likes it.
+JUSTICE HOGAN: The Tea Party likes it in the United States. And these books, you are collecting them. How long have you been collecting them for?
+MR. SORBARA: Long time, long time. I was buying and selling for a time and then just got too busy with other things. Now, I am collecting them and then -- you tend to do better, from a commercial perspective, if you have got a collection as opposed to just -- I mean, ultimately, you can sell a collection or you can donate a collection to a library for a very sizable tax break, that kind of thing.
+(Emphasis added.)
+[11] Mr. Sorbara testified that the Appellant’s second property is located at 363 Westwood Road in Guelph, Ontario. He claims he stores files in this property and uses it as an office for the consulting activities that he conducts on behalf of the Appellant. It remains unclear from Mr. Sorbara’s evidence what area of the condominium is used for the Appellant’s consulting business.
+[12] Under the Act, ITCs may be claimed under subsection 169(1) for GST paid with respect to goods or services acquired for consumption use or supply in the course of a “commercial activity” carried on by a registrant. A “commercial activity” is defined as including, inter alia, a “business” and “an adventure . . . in the nature of trade”.
+[13] The definition of “business’ is found in subsection 123(1). In addition to its general meaning, business is defined as including a “. . . profession, calling, trade . . . or undertaking of any kind whatever”, whether the activity is undertaken for profit or not. The second part of the expanded definition does not apply to the matter being considered herein.
+[14] The case law instructs us that, when evaluating an activity that may be conducted for personal reasons, the Court must apply objective factors to determine whether the activity is, for example, a hobby, or whether it constitutes a business.[3] These factors include the taxpayer’s profit and loss experience in past years, the taxpayer’s training, the taxpayer’s intended course of action, and the capability of the venture to show a profit.[4] This list is not exhaustive.
+[15] The Appellant’s evidence fell well short of the mark with respect to those factors. Mr. Sorbara’s evidence was limited to a statement that the Appellant may one day sell the books, or donate them so as to obtain a large charitable donation credit. The witness did not establish that the Appellant had a business plan or strategy. He gave no indication as to who the Appellant’s prospective clients might be. He failed to provide the Court with an overview of the rare book market. He stated that he had sold books in the past; however, he did not provide the Court with any information with respect to the circumstances surrounding the alleged sales. It was unclear from his testimony who had sold books in the past. Was it the Appellant or Mr. Sorbara? Considering the evidence as a whole, I believe that the books were likely collected and kept by the Appellant for the benefit of its shareholder, Mr. Sorbara.
+[16] Before moving on from this issue, I must also consider the expanded definition of business, which includes “. . . a profession, calling, trade, manufacture or undertaking of any kind whatever” (emphasis added), whether engaged in for profit or not. I am satisfied that the Appellant was not carrying on a profession, calling, trade or manufacture. Do the Appellant’s rare book activities amount to an “undertaking” within the meaning of that term? I do not believe so. In J.V. Drumheller v. M.N.R.[5], Thurlow J. defined an “undertaking” as follows:
+I turn now to the Minister's alternative plea that the sum was profit from a business. Business is defined by the statute in wide terms. It is not limited to trading or manufacturing but includes, as well, the carrying on of a profession or vocation. It also includes an undertaking of any kind and an adventure or concern in the nature of trade but not an office or employment. The expressions used in this definition are not mutually exclusive, nor are they all equally broad. Some overlap with others. In particular, the expression an undertaking of any kind appears to me to be wide enough by itself to embrace any undertaking of the kinds already mentioned in the definition; that is to say, trades, manufactures, professions, or callings, and any other conceivable kinds of enterprise as well.
+(Emphasis added.)
+[17] In the context of the expanded definition of a business, “undertaking” means an enterprise. An enterprise would include both a for‑profit and not‑for‑profit undertaking. I do not believe that the term “undertaking” was meant to encompass a hobby carried on by a corporation for the benefit of its shareholder.
+[18] After hearing the Appellant’s evidence on the nature of its activities, I adjourned the hearing because the Appellant did not have copies of the bills and invoices in respect of which the ITCs were claimed. The matter of proper documentation was in dispute.
+[19] Mr. Sorbara and the Respondent’s representative agreed to meet to review the invoices and attempt to agree on an allocation of expenses. Unfortunately, they were unable to come to an understanding in this regard. When the hearing resumed, I advised Mr. Sorbara that he should enter the disputed invoices into evidence and explain how these expenses related to each of the properties. He declined to do so. I surmise that he believed that the Appellant had established that both properties were fully used in the pursuit of a commercial activity. Because the Appellant failed to establish that this was indeed the case, the Court was unable to determine whether any of the expenses related to the Appellant’s consulting business. In the end, the Appellant’s appeal must be dismissed because the Appellant failed to rebut, on a prima facie basis, the Minister’s assumption that it did not have proper documentation to substantiate its ITC claim and that it did not use its real estate holdings in the pursuit of a commercial activity.
+[20] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of June 2015.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2015 TCC 156
+COURT FILE NO.:
+2012-2604(GST)I
+STYLE OF CAUSE:
+GUTBUCKET INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 9, 2013 and April 13, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 22, 2015
+APPEARANCES:
+Agent for the Appellant:
+Sam Sorbara
+Counsel for the Respondent:
+Dominique Gallant
+Jan Jansen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the Notice of Appeal paragraph 12.g.
+[2] This letter was attached as an Exhibit to the Appellant's Notice of Appeal.
+[3] Stewart v. Canada, [2002] 2 SCR 645.
+[4] Ibid. at paragraph 55.
+[5] [1959] Ex. C.R. 281 at 286, [1959] C.T.C. 275 at 280.

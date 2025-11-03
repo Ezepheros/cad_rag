@@ -1,0 +1,97 @@
+R. v. Battista
+Collection
+Court Martial Appeal Court
+Date
+2001-10-01
+Neutral citation
+2001 CMAC 1
+Report citation
+6 CMAR 212
+File numbers
+CMAC-442
+Decision-makers
+Rothstein, Marshall E.; Sexton, J. Edgard; Huddart, Carol Mahood
+Decision Content
+Date: 20011001
+Docket: CMAC-442
+Neutral citation: 2001 CMAC 1
+CORAM: ROTHSTEIN J.A.
+SEXTON J.A.
+HUDDART J.A.
+BETWEEN:
+LIEUTENANT-COLONEL TONY BATTISTA
+Appellant
+--and--
+HER MAJESTY THE QUEEN
+Respondent
+Heard at Ottawa, Ontario, on October 1, 2001
+Judgment delivered from the Bench at Ottawa, Ontario, on October 1, 2001
+REASONS FOR JUDGMENT BY: THE COURT
+Date: 20011001
+Docket: CMAC-442
+Neutral citation: 2001 CMAC 1
+CORAM: ROTHSTEIN J.A.
+SEXTON J.A.
+HUDDART J.A.
+BETWEEN:
+LIEUTENANT-COLONEL TONY BATTISTA
+Appellant
+--and--
+HER MAJESTY THE QUEEN
+Respondent
+REASONS FOR JUDGMENT OF THE COURT
+(Delivered from the Bench at Ottawa, Ontario,
+on Monday, October 1, 2001)
+[1] The appellant was found guilty on four charges under paragraph 125(a) of the National Defence Act, R.S.C. 1985, c. N-5, s. 125. Paragraph 125(a) provides, in relevant part:
+125. Every person who
+(a) wilfully or negligently makes a false statement or entry in a document made or signed by that person and required for official purposes [...],
+[...]
+is guilty of an offence and on conviction is liable to imprisonment for a term not exceeding three years or to less punishment.
+125. Commet une infraction et, sur déclaration de culpabilité, encourt comme peine maximale un emprisonnement de trois ans quiconque :
+a) fait volontairement ou par négligence une fausse déclaration ou inscription dans un document officiel établi ou signé de sa main [...];
+[...]
+One charge was for wilfully making a false statement and three charges were for wilfully making a false entry on documents required for official purposes. At issue were documents authorizing the travel and expense account claims of the appellant and a subordinate officer from Winnipeg to Ontario.
+[2] On the view we take of this case, the only issue that needs to be decided is whether it was unreasonable for the Military Judge to find that the appellant made false statements and entries in the documents. The statements and entries were that the purpose of the trip was "Command and Control, Security Review Update".
+[3] Upon learning of the death of a military police colleague in Trenton, the appellant spoke to his immediate superior, Brigadier-General Lucas, about attending the colleague's funeral in Hamilton and a memorial service in Trenton. At an earlier and unrelated time, the appellant and the General had discussed the appellant's meeting with air force officers in Trenton in connection with work the appellant was conducting involving an air force security review.
+[4] The day after the appellant spoke to General Lucas about the funeral, he submitted a request seeking authorization for the trip for the sole purpose of attending the funeral. General Lucas returned the request unsigned because he wanted it also to reflect another purpose of the trip, that is, meeting with the officers in Trenton regarding the air force security review. General Lucas did sign a second request submitted by the appellant that authorized his trip for the purpose of "Command and Control, Security Review Update". General Lucas also signed a similar request authorizing the trip for Major Wight, the appellant's subordinate officer.
+[5] While the appellant and Major Wight attended the military funeral in Hamilton, they did not go to Trenton. The memorial service there for the deceased was scheduled for after their return flight and arrangements for meetings with the air force officers in Trenton could not be completed. The Military Judge found that the only purpose of the trip was the funeral in Hamilton and that, therefore, statements indicating any other purpose were false. Accordingly, he found the appellant guilty of charges 1 and 2.
+[6] Charges 3 and 4 relate to two expense claims of the appellant and Major Wight. When he returned to Winnipeg, the appellant signed expense forms for himself and Major Wight showing the purpose of the trip as "Command & Control Security Review Update". The appellant made no claim for expenses. Major Wight's claim was for approximately $100. The appellant was found guilty of charges 3 and 4 on the basis that the trip to Ontario was not related to the "Command and Control, Security Review Update".
+[7] There is some evidence that "Command and Control" could include attendance at a funeral. Whether it does, or in what circumstances, however, is of no consequence in this case. Respondent's counsel's position was that, even if the documents had referred to "Funeral, Security Review Update", the appellant would still be guilty of the charges laid. The only purpose for the trip was the funeral and, therefore, the words "Security Review Update", which referred to meeting with officers in Trenton to discuss the air force security review, were false. The focus then is on whether the funeral was the only purpose of the trip.
+[8] In our respectful opinion, it was unreasonable for the Military Judge to conclude that the funeral was the only purpose of the trip and that the "Security Review Update" was not a secondary purpose.
+[9] The Military Judge's conclusion was an inference he drew from two sets of facts. The first was that the original request submitted by the appellant to General Lucas used the word "funeral" as the purpose of the trip. The second request did not include that word. The second set of facts was that there was no meeting with officers in Trenton, no preparation for the meeting prior to submission of the request to travel, and that officers in Trenton were unavailable to meet. Apart from these two sets of facts, there was no other evidence supporting the Military Judge's finding, and the Crown's position, that "Security Review Update" was not a purpose of the trip.
+[10] The burden was on the Crown to prove that "Security Review Update" was not a purpose of the trip. These two sets of facts do not support the inference that the only purpose of the attendance in Ontario was for the funeral. They do not provide proof beyond a reasonable doubt that there was no secondary purpose contemplated.
+[11] As to the first set of facts, in the circumstances of this case, that the first request said "funeral", while the second did not, is insufficient to support the inference drawn by the Military Judge. The Military Judge found that Brigadier-General Lucas required the secondary purpose to be named and it was. Whatever the reason for not using the word "funeral" in the second request, it does not support the inference that there was no secondary purpose for the trip.
+[12] As to the second set of facts, that no security review activities were preplanned and held, these facts, in and of themselves, do not prove that such activities were not contemplated and were not a secondary purpose of the trip. There is no question that the primary purpose of the trip was the funeral. However, a funeral obviously takes place on short notice. The appellant submitted the second request just a few hours before he was scheduled to depart. In these circumstances, it was not reasonable for the Military Judge to apply to these facts the same considerations that one would apply to a trip that was planned well in advance. The fact that meetings did not take place in view of the unavailability of the Trenton officers (one officer was unavailable because he was in charge of funeral arrangements), in these circumstances, does not lead to the conclusion that such meetings, if they could be arranged, were not a secondary purpose of the trip.
+[13] These sets of facts relied upon by the Military Judge were, in our opinion, insufficient to support the inference drawn by him and the conclusion he reached.
+[14] For these reasons, the appeal will be allowed.
+[15] It is unnecessary to go further. However, we would note that the Military Judge's reasons indicate that he seemed to accept the evidence of the appellant's superior, Brigadier-General Lucas, which supported the secondary purpose of the trip. It was Brigadier-General Lucas who suggested the secondary purpose and insisted on it being included in the documents. In concluding that the appellant was guilty, we think it was incumbent on the Military Judge to come to grips with that evidence, explain how he could accept it and yet still find that there was no secondary purpose to the trip. The Military Judge did not mention Brigadier-General Lucas' testimony when he summed up the evidence he had considered before satisfying himself the Crown had proved its case beyond a reasonable doubt.
+[16] We would allow the appeal on charges 1 and 2, set aside the verdict of guilty and enter a verdict of not guilty.
+[17] As to the expense account claims, the respondent argued that these were submitted after the fact and, at that time, the appellant knew the reference to "Security Review Update" was false. However, whether the secondary purpose was achieved was immaterial. The purpose remained the same, both before and after the trip took place.
+[18] We would, therefore, allow the appeal on charges 3 and 4, set aside the verdict and enter a verdict of not guilty.
+"Marshall Rothstein"
+Rothstein J.A.
+"J. Edgard Sexton"
+Sexton J.A.
+"Carol Huddart"
+Hudart J.A.
+COURT MARTIAL APPEAL COURT OF CANADA
+SOLICITORS OF RECORD
+DOCKET: CMAC-442
+STYLE OF CAUSE: LIEUTENANT-COLONEL TONY BATTISTA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: October 2, 2001
+REASONS FOR JUDGMENT OF THE COURT: (Rothstein, Sexton, Huddard JJ.A.)
+RENDERED FROM THE BENCH BY: (Rothstein J.A.)
+APPEARANCES:
+Major D.P. McNairn
+FOR THE APPELLANT
+Major G.T. Rippon
+Major B. MacGregor
+FOR THE RESPONDENT
+SOLICITORS OF RECORD:
+Directorate of Defence Counsel Services
+Office of the Judge Advocate General
+FOR THE APPELLANT
+Directorate of Military Prosecutions
+Office of the Judge Advocate General
+FOR THE RESPONDENT

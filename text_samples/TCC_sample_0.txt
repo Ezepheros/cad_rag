@@ -1,0 +1,151 @@
+Chandan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-20
+Neutral citation
+2005 TCC 685
+File numbers
+2003-3110(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3110(IT)G
+BETWEEN:
+AMRIT KUMAR CHANDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 28, 2005 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Taylor
+_____________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under the Income Tax Act for the 1996 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct an allowable business investment loss of $26,245.
+Signed at Ottawa, Canada, this 20th day of October, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC685
+Date: 20051020
+Docket: 2003-3110(IT)G
+BETWEEN:
+AMRIT KUMAR CHANDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal from an assessment under the Income Tax Act for the 1996 taxation year. The issue concerns the sufficiency of documentation supporting a deduction of an allowable business investment loss ("ABIL") claimed by Amrit Chandan in respect of an ill-fated investment in a gas station and convenience store.
+[2] The appellant, a bus driver by occupation, represented himself in the appeal that was heard under the Court's general procedure.
+[3] The Crown does not dispute that Mr. Chandan was one of three individuals that purchased a gas station and convenience store in 1994, and operated it through a corporation, Higher State Holdings Inc., until the corporation became insolvent in 1996. What is in dispute is whether there is sufficient evidence with respect to the form, and the amount, of Mr. Chandan's investment.
+[4] In general, a "business investment loss" is a capital loss incurred on the disposition of shares of, or loans to, a corporation that meets the requirements of a "small business corporation." For the relevant taxation year, 75 percent of the amount of the loss may be deducted in computing income as an "allowable business investment loss." If a loss has not been realized by an actual disposition of the shares or loans, a taxpayer may nevertheless realize the loss by making an election.
+The effect of the election is to deem the shares or loans to be disposed of for proceeds equal to nil.
+[5] The relevant statutory provisions are paragraph 39(1)(c) and subsection 50(1) of the Act which read:
+39.
+(1) For the purposes of this Act,
+[...]
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm's length
+of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+(A) a small business corporation,
+(B) a bankrupt (within the meaning assigned by subsection 128(3)) that was a small business corporation at the time it last became a bankrupt, or
+(C) a corporation referred to in section 6 of the Winding-up Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+exceeds the total of [...]
+50.
+(1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+[...]
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+Issue
+[6] The question to be determined is whether the appellant made an investment in shares of, or loans to, Higher State Holdings Inc., and if so, what the amount of the investment was. The Crown concedes that the other requirements of paragraph 39(1)(c) and subsection 50(1) are satisfied, including the requirement that Higher State Holdings Inc. was a small business corporation, and that the appellant had made an election under subsection 50(1) to deem shares or loans to have been disposed of in 1996 for nil proceeds.
+Facts
+[7] Although it is clear that the appellant made an investment with two other individuals in a gas station and convenience store, it is difficult to piece together the form of the investment because the record-keeping for the business was abysmal. The appellant testified that he and his business partners could not afford to hire a lawyer or accountant and that much of the paperwork was prepared by the appellant himself. It is not surprising that in these circumstances the appellant has difficulty in establishing the form and amount of his investment.
+[8] The record-keeping was so bad, in fact, that the appellant did not know what the form of his investment was. He stated at the outset of the hearing that he intended to present to the court any documentation that he was able to locate and
+that he would ask the court to make a determination as to whether an ABIL should be allowed.
+[9] The appellant was able to provide a number of documents supporting his case but there were also significant gaps. Based on the evidence presented, I make the following findings of fact.
+[10] Under an agreement dated April 28, 1994, the appellant, Manoj Sikka and Arvinder Grewal (the "Purchasers") agreed to purchase the assets of a gas station and convenience store for a total consideration of $227,000 plus the value of inventory.[1] The transaction closed on May 30, 1994.
+[11] According to the agreement of purchase and sale, the consideration was to be paid as follows.
+1. $50,000 was to be paid in cash, $15,000 as a deposit and the balance was due on closing.
+2. A further $50,000 was to be paid subsequent to the closing out of the proceeds of the sale of a house, with interest at 12 percent. The deferred amount was to be secured by a second mortgage on the house.
+3. The balance of $127,000 plus the value of the inventory was to be paid over time with interest at 12 percent. This amount was to be secured by a promissory note and personal guarantees.
+[12] The transaction closed as scheduled on May 30, 1994 and the vendors were duly paid in accordance with the agreement. In addition to paying the above consideration, on closing the Purchasers paid disbursements totaling $4,978.21 and June rent in the amount of $5,000.
+[13] Since the principal issue in this appeal is the sufficiency of evidence, it may be useful to describe some of the documentary evidence that supports that the vendors were duly paid in accordance with the agreement of purchase and sale. The appellant introduced the following documents.
+1. A copy of the statement of adjustments for the closing on May 30, 1994 that sets out the amounts to be paid on closing. This document was prepared by a lawyer.
+2. A copy of a direction by Mrs. Chandan (the appellant's wife) and Mrs. Sikka (Mr. Sikka's mother) that was prepared in connection with the sale of the mortgaged house in 1995. Under the direction, the amount of $53,320.18 (representing principal plus interest) was to be paid out of the sale proceeds directly to the vendors of the gas station.
+3. A copy of an application for a bank loan of $150,000 by Higher State Holdings Inc. made a few months after closing. The stated use of the funds was to pay for the assets of the business. There was also included documentation regarding the seizure of assets by the Bank pursuant to a security interest granted by the corporation. These documents support the payment to the vendors by Higher State Holdings Inc. of the remaining amounts due to the vendors (i.e., the aggregate of $127,000, the value of inventory and interest).
+[14] Although there was adequate documentation supporting the total consideration paid for the gas station, there was less evidence supporting the portion paid by the appellant. What evidence there was tends to suggest that each of the Purchasers made equal contributions. This is based on a partnership agreement among the Purchasers dated April 28, 1994 and a copy of a share register that indicates that common shares in Higher State Holdings Inc. were issued in equal proportions to the Purchasers.[2]
+[15] The appellant testified that he paid for his one-third share of the business by arranging for his wife's one-half interest in the house to be paid directly to the vendors and by paying the balance in cash either as a deposit or on closing. He testified that he could not remember the details of the cash payments and was not able to obtain any documentation to support them.
+[16] The appellant also did not introduce any documents that provided specific evidence of an amount invested in either shares of, or loans to, Higher State Holdings Inc. The corporation had not been incorporated at the time of the closing. The appellant testified that, in order to document the relationship among the Purchasers, they executed a partnership agreement prepared by the appellant. It provided that the partnership would buy the business, the Purchasers would make equal contributions to the partnership, and they would also share profits and losses equally.
+[17] Higher State Holdings Inc. was incorporated about six weeks after the closing. There were several documents introduced by the appellant that tended to suggest that the business was thereafter owned and operated by the corporation but the appellant testified that the Purchasers did not document a transfer of the assets to the corporation after it was incorporated.
+[18] The business was operated by Higher State Holdings Inc. until 1996 at which time the assets of the gas station were seized by creditors.
+[19] When the appellant filed his income tax return for 1996, he was not aware that it was possible to claim a deduction for the loss that he sustained from the business. When he subsequently became aware of the ABIL provisions, an accountant made a claim on his behalf for a business investment loss equal to one-third of the up-front cash and one-half of the proceeds directed from the sale of the house. This amount is not consistent with the appellant's testimony at the hearing. He stated that he contributed less than one-third of the up-front cash so that his overall contribution would be one-third.
+[20] The appellant has not claimed a deduction with respect to the deferred amount that was paid off with the bank loan. The appellant testified that there is an outstanding dispute with the Bank of Montreal as to whether he gave a personal guarantee on that loan.
+Analysis
+[21] The question is whether the appellant has established an investment in shares of, or loans to, Higher State Holdings Inc. and, if so, the amount of the investment.
+[22] The position of the Crown is that the facts are just too confusing to know what happened. At first blush this seems to be a reasonable position because the appellant himself does not even know what form the investment took. To the extent that the facts cannot be determined, the appellant has only himself to blame, as this court has said on many occasions.
+[23] Notwithstanding these deficiencies, however, I have concluded that the evidence before me establishes a prima facie case of a business investment loss in respect of common shares of Higher State Holdings Inc. in the amount of $34,993. Because the Crown did not introduce any evidence contradicting this, the appellant is entitled to succeed, in my view, on the basis of a prima facie case being made out.[3]
+[24] I am influenced by the fact that the appellant did introduce a number of third party documents that support his story. It is clear that the Purchasers purchased the gas station and convenience store for approximately $270,000 (i.e., $227,000 plus closing disbursements and inventory) and that the net equity contributed was $104,978.21 ($50,000 on closing, $50,000 from sale of house, and $4,978.21 in disbursements).[4] It is also clear that the business became insolvent. Further, the documents tend to support the view that the business was owned and operated by Higher State Holdings Inc.[5]
+[25] It is common for inexperienced businessmen to fail to properly document their business dealings. I find that the story presented by the appellant is plausible and that it is consistent with the documentation, although there is admittedly an incomplete picture.
+[26] Third, I am influenced by the fact that losses were obviously incurred. This is not a case where there is doubt as to whether any money was invested.
+[27] Accordingly, I find that the above facts have been established on a prima facie basis. The question that remains is to determine the legal effect of this confusing state of affairs. In my view, the most logical legal conclusion to be drawn from the facts is that the appellant made a capital contribution to Higher State Holdings Inc. equal to his one-third net equity contribution to the business, or $34,993.
+[28] Although there was no documentation that reflected a transfer of the business from the partnership to the corporation, it is logical that a transfer took place when the Purchasers incorporated the corporation and began operating the business on the basis that the assets were owned by the corporation. I conclude, then, that the assets of the business were transferred to Higher State Holdings Inc. for no consideration except the assumption of liabilities.
+[29] The probable legal effect of the transfer of assets is that it resulted in a capital contribution by the Purchasers who were managing the business and who were the sole shareholders of the corporation. The aggregate amount of the capital contribution was the value of the assets transferred less the amount of liabilities assumed.[6]
+[30] The Crown suggests that the amount paid from the sale of the house might have been contributed or loaned to Higher State Holdings Inc. by the owners of the house (Mrs. Chandan and Mrs. Sikka) rather than by the appellant and Mr. Sikka. Although it is possible that Mrs. Chandan and Mrs. Sikka intended to make an investment in the business, I find that the evidence is more consistent with Mrs. Chandan making the funds available to her husband so that he could fulfill his obligation to contribute one-third of the equity required for the business.[7]
+[31] In my view, the appellant has led sufficient evidence to raise a prima facie case. I am influenced by the Crown's failure to lead evidence that contradicts the
+appellant's testimony. The Canada Revenue Agency presumably had the opportunity to verify the appellant's story from many sources, including the tax returns of the other Purchasers and the vendors of the gas station. In the circumstances where the appellant has provided a significant amount of documentation to establish his claim for a deduction, it is incumbent on the Crown to lead some evidence that raises a doubt about the appellant's case.[8]
+[32] Finally, I would comment concerning the arguments raised by counsel for the Crown.
+[33] Counsel referred to the Supreme Court of Canada decision in Shell Canada Limited[9] for the proposition that form governs over substance. Although this principle is well-established, it has no application on the facts of this appeal. I agree that whether the appellant is entitled to claim an ABIL should be governed by the legal effect of the transactions that he entered into. The difficulty that arises in this appeal, though, is to determine the legal effect of what was done. It is not a question of substance over form. The legal effect, once determined, will govern.
+[34] Counsel also referred to decisions that emphasize the importance of record-keeping.[10] A taxpayer is required under subsection 230(1) of the Act to keep appropriate records so that the income tax returns can be verified and a taxpayer who fails to keep adequate records may have their claims disallowed. A claim for a deduction is not necessarily to be denied, however, because the taxpayer failed to keep adequate records. The requirement is that a prima facie case be established and, in my view, that is what the appellant has succeeded in doing.
+[35] As a result of the foregoing, I conclude that the appellant has incurred a business investment loss equal to $34,993. This is the amount of the appellant's capital contribution to Higher State Holdings Inc. and one-third of the aggregate capital contributions by the Purchasers. The amount should be added to the adjusted cost basis of the appellant's common shares under paragraph 53(1)(c) of the Act. As noted above, the Crown has conceded that the appellant had made an election under
+subsection 50(1) to deem the shares to have been disposed of for nil proceeds. The disposition results in an ABIL equal to 75 percent of the business investment loss.
+[36] The appeal is allowed, with costs, and the assessment is referred back to the Minister of National Revenue to reassess on the basis that the appellant is entitled to deduct an allowable business investment loss of $26,245.
+Signed at Ottawa, Canada, this 20th day of October, 2005.
+"J. Woods"
+Woods J.
+CITATION: 2005TCC685
+COURT FILE NO.: 2003-3110(IT)G
+STYLE OF CAUSE: Amrit Kumar Chandan and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: October 20, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The inventory was subsequently valued at $37,651.
+[2] The appellant admitted at the hearing that the shareholders paid nothing for these shares even though the shareholders' register indicated payment of $100 by each shareholder. I have assumed that the shares were validly issued.
+[3] Hickman Motors Limited v. The Queen, 97 D.T.C. 5363 (S.C.C.).
+[4] The net equity would not include June rent.
+[5] I would note that if the business had operated in partnership form, the partners would have been entitled to claim their share of business losses, including a terminal loss on the disposition of depreciable assets. This may have produced a more favourable result to the appellant than what he claimed.
+[6] The amount paid to the vendors from the sale of the house would have resulted in a capital contribution either in 1994, at the time the corporation acquired the business, or in 1995, when the house was sold. In either event, the capital contribution was made in a taxation year before the loss was incurred in 1996.
+[7] An argument could be made that the appellant's capital contribution also included his share of the interest portion of the amount paid out of the house proceeds ($3,321). I have concluded that this is too generous an interpretation given the absence of proper documentation.
+[8] Hickman Motors Limited, supra.
+[9] Shell Canada Limited v. The Queen, 99 D.T.C. 5669 (S.C.C.).
+[10] Bullas v. The Queen, 2002 D.T.C. 7043 (F.C.A.).

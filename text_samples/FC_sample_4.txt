@@ -1,0 +1,108 @@
+Morales Esparza v. Canada (Citizenship and Immigration)
+Court (s) Database
+Federal Court Decisions
+Date
+2013-06-13
+Neutral citation
+2013 FC 650
+File numbers
+IMM-10767-12
+Decision Content
+Date: 20130613
+Docket: IMM-10767-12
+Citation: 2013 FC 650
+Ottawa, Ontario, June 13, 2013
+PRESENT: The Honourable Mr. Justice Phelan
+BETWEEN:
+JUAN CARLOS MORALES ESPARZA
+SANDRA IVONNE RAMIREZ DIAZ
+MARIA GUADALUPE MORALES RAMIREZ
+KARLA IVONNE MORALES RAMIREZ
+ANA MARIA MORALES RAMIREZ
+LUZ ELENA MORALES RAMIREZ
+Applicants
+and
+THE MINISTER OF CITIZENSHIP AND IMMIGRATION
+Respondent
+REASONS FOR JUDGMENT AND JUDGMENT
+I. INTRODUCTION
+[1] This is the judicial review of a humanitarian and compassionate grounds [H&C] application governed by the Immigration and Refugee Protection Act, SC 2001, c 27 [IRPA], s 25(1).
+25. (1) Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible or does not meet the requirements of this Act, and may, on request of a foreign national outside Canada who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+25. (1) Sous réserve du paragraphe (1.2), le ministre doit, sur demande d’un étranger se trouvant au Canada qui demande le statut de résident permanent et qui soit est interdit de territoire, soit ne se conforme pas à la présente loi, et peut, sur demande d’un étranger se trouvant hors du Canada qui demande un visa de résident permanent, étudier le cas de cet étranger; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
+II. BACKGROUND
+[2] The Applicants are a family of six: wife, husband and four daughters aged from 20 to 14. They are citizens of Mexico who arrived in Canada in 2006 and applied for refugee protection.
+[3] This refugee claim was based on fear of the wife’s father (and his colleagues) who were believed to be at least involved in the drug trade if not members of a drug cartel. The wife was ill-treated, threatened and assaulted by her father. The wife’s brother was beaten and had admitted to killing someone. The wife’s father intended to kill her husband. The husband and wife were shot at. In summary, their narrative was of unprovoked violence towards them, connected to family and drug trafficking.
+[4] After filing their refugee claim, the Applicants moved and gave notice of the new address to Citizenship and Immigration Canada authorities but not to the Immigration and Refugee Board [Board]. They were represented by other counsel. As they did not appear at the refugee hearing because they did not receive notice of the hearing, their refugee claim was deemed abandoned. The Board refused to re‑open the claim because, the Court was advised, the Board held that there was no breach of natural justice. No steps were taken to challenge the Board’s decision.
+[5] A PRRA application was dismissed.
+[6] The Applicants filed for permanent residence from within Canada pursuant to H&C grounds under IRPA, s 25(1) where the governing principle is that applicants must establish “unusual, and undeserved or disproportionate hardship”.
+[7] There are three critical findings made by the Officer in her decision:
+• that there was insufficient personalized risk;
+• that despite having achieved a respectable level of establishment, there was insufficient hardship because the Applicants did not have a reasonable expectation of staying in Canada permanently and could maintain contact with friends by letters, e-mails and other forms of communication; and
+• that despite acknowledging pervasive problems in Mexico in relation to health, education, and child trafficking for sexual exploitation, there was no unusual, undeserved or disproportionate hardship.
+III. ANALYSIS
+A. Standard of Review
+[8] The issues in this judicial review are:
+1) Did the Officer apply the proper test for an H&C application?
+2) Was the determination of “hardship” reasonable, particularly in respect of establishment?
+3) Was the Officer’s consideration of the best interests of the children in accordance with the law and otherwise reasonable?
+[9] The Applicants refer specifically to comments in Canada (Citizenship and Immigration) v Khosa, 2009 SCC 12, [2009] 1 SCR 339 and Dunsmuir v New Brunswick, 2008 SCC 9, [2008] 1 SCR 190, that a decision must be reasonable in that it is defensible on the facts and the applicable law (Court’s emphasis). A government official applying law is not generally entitled to the same deference as a tribunal acting within its sphere of expertise.
+[10] The standard of review on the first issue is correctness as it concerns the proper legal test for an H&C as developed in the case law (Ambassa v Canada (Minister of Citizenship and Immigration), 2012 FC 158, 211 ACWS (3d) 434).
+The standard of review on the second and third issue is reasonableness (Hamam v Canada (Minister of Citizenship and Immigration), 2011 FC 1296, 209 ACWS (3d) 663 [Hamam]). The parties are agreed on this point.
+B. Legal Test
+[11] The first problem with this decision is that the Officer laid undue emphasis on “personalized risk” as being the “hardship” which the Applicants had to address. There is no explanation of what the Officer meant by the term “personalized risk”, which is a term of art emanating from s 97. An H&C determination is not conducted in the same manner as a s 97 analysis.
+[12] Risk may be part of the IRPA s 25 hardship analysis where risk or harm is raised as a factor supporting the H&C application. However, it is one element of the hardship analysis. In this case it is virtually the sole matter to which the Officer paid attention. That is an error. The notion of personalized risk pervaded the whole of the Officer’s decision to the virtual exclusion of any detailed review of other factors.
+[13] The Officer’s approach has been held to be an error in a number of cases. In Shah v Canada (Minister of Citizenship and Immigration), 2011 FC 1269, 399 FTR 146, regarding an H&C in respect of Trinidad and Tobago, the Court held at paragraph 72:
+72 The Officer set aside all of the country conditions and dismissed relevant facts indicative of hardship by incorrectly applying a standard which required the Applicant to show that she would be personally targeted or threatened. This Court has determined such an approach to be incorrect and reviewable: see Sahota v. Canada (Minister of Citizenship & Immigration), 2007 FC 651, [2007] FCJ 882 [Sahota]; Sha’er, supra [Sha’er v Canada (Minister of Citizenship and Immigration), 2007 FC 231, 60 Imm LR (3d) 189].
+[14] In oral argument, the Respondent relied on the decision in Piard v Canada (Minister of Citizenship and Immigration), 2013 FC 170, 2013 CarswellNat 618 [Piard], that personalized risk needs to be established (the Respondent made no written submissions on this issue). With respect, I do not read Justice Boivin as laying down any such rule. In the Piard case, the Applicants set out a number of objective facts about conditions in Haiti. Justice Boivin observed that it was not enough to speak about country conditions without showing a nexus between those conditions and the H&C hardship which a person would experience:
+18 It does not follow that such an analysis must be conducted in a vacuum without regard for the applicants’ personal circumstances, as the applicants seem to be suggesting. […]
+19 Therefore, individuals seeking an exemption from a requirement of the Act may not simply present the general situation prevailing in their country of origin, but must also demonstrate how this would lead to unusual and undeserved or disproportionate hardship for them personally. […]
+[15] In the present case, it would be unreasonable to suggest that the Applicants, having been impacted by those involved in drug trafficking, did not show a nexus between the country conditions and hardship which they would face upon return to Mexico.
+C. Hardship/Establishment
+[16] Having focused unduly on “personalized risk”, the Officer did not properly consider other elements of hardship. Where she did so, as in respect to “establishment”, the finding was unreasonable.
+[17] There was no real analysis of hardship or explanation of why, given the numerous positive elements of establishment, the evidence was insufficient to establish hardship. The non-expectation of being able to stay in Canada permanently is irrelevant. A person seeking refugee status or an H&C could not have an expectation of permanency if for no other reason than that they do not have an established right to permanent residence.
+[18] The reference to being able to stay in touch with friends is a thin basis for any conclusion on the basis of establishment.
+[19] There is no weighing of the positive and negative factors in respect of the various elements of establishment and the hardship flowing from not remaining in Canada. The situation is similar to that in Haman at paragraph 55:
+55 The Officer was correct in relying on Uddin [Uddin v Canada (Minister of Citizenship and Immigration), 2002 FCT 937, 116 ACWS (3d) 930 (FCTD)] as the appropriate legal framework in which to ground her analysis. The problem is that the Officer listed the Applicants’ positive establishment evidence, failed to conduct any analysis, and simply concluded that the hardship the Applicants would face would not be unusual, undeserved or disproportionate.
+D. Best Interests of Children
+[20] While the Officer does engage in some analysis of the best interests of the children, it is, as counsel properly acknowledge, “light”.
+[21] The threshold and analysis set by the Officer for “best interests” is that of “unusual, undeserved or disproportionate”. While that is the ultimate test for a s 25 decision, the analysis of best interest is more broadly based.
+[22] In Lewis v Canada (Minister of Citizenship and Immigration), 2008 FC 790, 168 ACWS (3d) 380, at paragraph 11, the Court commented in respect of best interests:
+11 […] To my mind, it is not only “unusual and undeserved or disproportionate hardships” that matter. Any hardship that a child would suffer should be taken into account in determining whether there are humanitarian and compassionate grounds justifying an exemption. One can easily see that an analysis that focussed only on hardships that were “unusual and undeserved or disproportionate” would risk leaving out significant factors relating to a child's best interests. As Justice Décary noted in Hawthorne, above [Hawthorne v Canada (Minister of Citizenship and Immigration), 2002 FCA 475, [2002] FCJ No 1687], the terms “disproportionate”, “unusual” and “undeserved” may be ill-suited to a description of a child’s suffering (particularly “undeserved”).
+[23] Given the evidence of relevant conditions in Mexico and the children’s own circumstances, the Officer had a duty to analyze all the factors which could impact on the children’s best interest. This was not done and it was unreasonable to conclude as the Officer did.
+IV. CONCLUSION
+[24] Therefore, this judicial review will be granted, the decision will be quashed, and the matter remitted to a different officer for a new determination.
+[25] There is no question for certification.
+JUDGMENT
+THIS COURT’S JUDGMENT is that the application for judicial review is granted, the decision is quashed, and the matter is to be remitted to a different officer for a new determination.
+“Michael L. Phelan”
+Judge
+FEDERAL COURT
+SOLICITORS OF RECORD
+DOCKET: IMM-10767-12
+STYLE OF CAUSE: JUAN CARLOS MORALES ESPARZA
+SANDRA IVONNE RAMIREZ DIAZ
+MARIA GUADALUPE MORALES RAMIREZ
+KARLA IVONNE MORALES RAMIREZ
+ANA MARIA MORALES RAMIREZ
+LUZ ELENA MORALES RAMIREZ
+and
+THE MINISTER OF CITIZENSHIP AND IMMIGRATION
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: June 5, 2013
+REASONS FOR JUDGMENT
+AND JUDGMENT: PHELAN J.
+DATED: June 13, 2013
+APPEARANCES:
+Jean Munn
+FOR THE APPLICANTS
+Camille Audain
+FOR THE RESPONDENT
+SOLICITORS OF RECORD:
+CARON & PARTNERS LLP
+Barristers & Solicitors
+Calgary, Alberta
+FOR THE APPLICANTS
+MR. WILLIAM F. PENTNEY
+Deputy Attorney General of Canada
+Edmonton, Alberta
+FOR THE RESPONDENT
