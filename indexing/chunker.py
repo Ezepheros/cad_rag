@@ -58,71 +58,47 @@ class NaiveChunker(Chunker):
         return all_chunks
     
 class TopicChunker(Chunker):
-    """
-        Chunks documents based on topic boundaries.
-    """
-    
-    def __init__(self, tokenizer, topic_model, max_chunk_size: int = 512):
-        super().__init__()
-        self.tokenizer = tokenizer
-        self.max_chunk_size = max_chunk_size
-        self.topic_model = topic_model
-    
-    def chunk(self, document, sim_threshold=0.75, min_sentences=3):
-        """
-        Splits a document into semantic chunks based on topic shifts.
-
-        Parameters:
-        - document: str, the full text to split
-        - model_name: str, embedding model from sentence-transformers
-        - sim_threshold: float, cosine similarity threshold to detect topic change
-        - min_sentences: int, number of sentences per initial unit
-
-        Returns:
-        - chunks: list of strings
-        """
-        # Load embedding model
-        breakpoint()
-        
-        # Step 1: Split document into sentences
-        sentences = nltk.tokenize.sent_tokenize(document)
-        
-        # Step 2: Group sentences into units (like mini-paragraphs)
-        units = []
-        for i in range(0, len(sentences), min_sentences):
-            units.append(" ".join(sentences[i:i+min_sentences]))
-        
-        # Step 3: Compute embeddings
-        embeddings = model.encode(units)
-        
-        # Step 4: Detect topic shifts
-        chunks = []
-        current_chunk = [units[0]]
-        
-        for i in range(1, len(units)):
-            sim = cosine_similarity([embeddings[i-1]], [embeddings[i]])[0][0]
-            if sim < sim_threshold:
-                chunks.append(" ".join(current_chunk))
-                current_chunk = [units[i]]
-            else:
-                current_chunk.append(units[i])
-        
-        # Add last chunk
-        chunks.append(" ".join(current_chunk))
-        
-        return chunks
-    
-class TopicChunker(Chunker):
     
     def __init__(self, threshold: float = 0.6, max_chunk_character_size: int = 512, sentence_emb_model=None):
         super().__init__()
+        self.threshold = threshold
+        self.max_chunk_character_size = max_chunk_character_size
+        self.sentence_emb_model = sentence_emb_model
         
     def chunk(self, texts: str) -> list[str]:
         # Assumes text is split into sentences some way
         
         # embed each sentence
+        sentence_embeddings = self.sentence_emb_model.embed(texts)
         
         # compute cosine similarity between adjacent sentences and merge sentences until similarity drops below threshold or max chunk size is reached
+        chunks = []
+        current_chunk = ""
+        current_chunk_size = 0
+        previous_embedding = None
+        for i, sentence in enumerate(texts):
+            sentence_embedding = sentence_embeddings[i]
+            sentence_size = len(sentence)
+            
+            if previous_embedding is not None:
+                sim = cosine_similarity([previous_embedding], [sentence_embedding])[0][0]
+            else:
+                sim = 1.0  # first sentence
+            
+            if sim < self.threshold or (current_chunk_size + sentence_size) > self.max_chunk_character_size:
+                # finalize current chunk
+                if current_chunk:
+                    chunks.append(current_chunk.strip())
+                
+                # start new chunk
+                current_chunk = sentence + " "
+                current_chunk_size = sentence_size
+            else:
+                # continue current chunk
+                current_chunk += sentence + " "
+                current_chunk_size += sentence_size
+            
+            previous_embedding = sentence_embedding
         
     
 if __name__ == "__main__":
