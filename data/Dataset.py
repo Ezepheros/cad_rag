@@ -68,6 +68,6 @@ if __name__ == "__main__":
         print(f'Total rows: {count}')
         breakpoint()
     
-    testIteratorWhole()
+    # testIteratorWhole()
     # testIterator()
     # testCanadianCaseLawDocumentDatabase()
