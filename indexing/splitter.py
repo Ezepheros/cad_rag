@@ -45,7 +45,7 @@ class WhiteSpaceSplitter(Splitter):
                 in_middle_word = False
                 
             # print(f"char: '{char}' | start_idx: {start_idx} | end_idx: {end_idx} | in_middle_word: {in_middle_word}")
-            breakpoint()
+            # breakpoint()
         
         return paragraphs
     
@@ -59,11 +59,39 @@ class WhiteSpaceSplitter(Splitter):
     #         paragraphs.append(match.group())
     #     return paragraphs
 
-if __name__ == "__main__":
-    path = Path('./cad_rag/text_samples/CHRT_sample_0.txt')
-    sample_text = path.read_text(encoding='utf-8')
+class SentenceSplitter(Splitter):
+    """
+        Splits documents into sentences using NLTK sentence tokenizer
+    """
     
-    splitter = WhiteSpaceSplitter()
-    chunks = splitter.split(sample_text)
-    for i, chunk in enumerate(chunks):
-        print(f"Chunk {i+1}:\n{chunk}\n")
+    def __init__(self, nltk_data_dir: str = None):
+        super().__init__()
+        if nltk_data_dir:
+            nltk.download('punkt', download_dir=nltk_data_dir)
+        else:
+            nltk.download('punkt')
+            
+        self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+        
+    def split(self, text: str) -> list[str]:
+        sentences = self.tokenizer.tokenize(text)
+        return sentences
+
+if __name__ == "__main__":
+    # current_dir = os.path.dirname(os.path.abspath(__file__))
+    # path = Path(current_dir) / Path('../text_samples/CHRT_sample_0.txt')
+    # sample_text = path.read_text(encoding='utf-8')
+    
+    # splitter = WhiteSpaceSplitter()
+    # chunks = splitter.split(sample_text)
+    # for i, chunk in enumerate(chunks):
+    #     print(f"Chunk {i+1}:\n{chunk}\n")
+        
+    def testSentenceSplitter():
+        splitter = SentenceSplitter()
+        text = "This is the first sentence. Here is the second sentence! And what about the third? Yes, the third one."
+        sentences = splitter.split(text)
+        for i, sentence in enumerate(sentences):
+            print(f"Sentence {i+1}: {sentence}")
+            
+    testSentenceSplitter()

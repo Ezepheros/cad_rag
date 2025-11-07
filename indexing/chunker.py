@@ -2,6 +2,8 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 from cad_rag.data.Dataset import CanadianCaseLawDocumentDatabase
+from cad_rag.embedding_models.embedding_models_wrapper import EmbeddingModelWrapper
+from cad_rag.indexing.splitter import SentenceSplitter
 import re
 # from nltk.tokenize import sent_tokenize
 import nltk.data
@@ -110,7 +112,18 @@ class TopicChunker(Chunker):
         
         return chunks
     
+class TopicChunker(Chunker):
     
+    def __init__(self, threshold: float = 0.6, max_chunk_character_size: int = 512, sentence_emb_model=None):
+        super().__init__()
+        
+    def chunk(self, texts: str) -> list[str]:
+        # Assumes text is split into sentences some way
+        
+        # embed each sentence
+        
+        # compute cosine similarity between adjacent sentences and merge sentences until similarity drops below threshold or max chunk size is reached
+        
     
 if __name__ == "__main__":
     model = SentenceTransformer('all-MiniLM-L6-v2')
