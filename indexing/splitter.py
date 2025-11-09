@@ -68,8 +68,10 @@ class SentenceSplitter(Splitter):
         super().__init__()
         if nltk_data_dir:
             nltk.download('punkt', download_dir=nltk_data_dir)
+            nltk.download('punkt_tab', download_dir=nltk_data_dir)
         else:
             nltk.download('punkt')
+            nltk.download('punkt_tab')
             
         self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
         

@@ -4,19 +4,29 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 from cad_rag.data.Dataset import CanadianCaseLawDocumentDatabase
 from cad_rag.embedding_models.embedding_models_wrapper import EmbeddingModelWrapper
 from cad_rag.indexing.splitter import SentenceSplitter
+from cad_rag.utils.logging_util import get_logger
+logger = get_logger(__name__)
 import re
 # from nltk.tokenize import sent_tokenize
 import nltk.data
 import nltk
 from nltk.tokenize import word_tokenize
 from pathlib import Path
+from abc import ABC, abstractmethod
 
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
+import torch
+import torch.nn.functional as F
 
-class Chunker:
+class Chunker(ABC):
     def __init__(self):
         pass
+
+    @abstractmethod
+    def chunk(self, text: str, text_metadata: dict = {}) -> list[dict]:
+        pass
+    
     
 class NaiveChunker(Chunker):
     """
@@ -59,46 +69,95 @@ class NaiveChunker(Chunker):
     
 class TopicChunker(Chunker):
     
-    def __init__(self, threshold: float = 0.6, max_chunk_character_size: int = 512, sentence_emb_model=None):
+    def __init__(self, threshold: float = 0.6, max_chunk_character_size: int = 1024, sentence_emb_model=None, sentence_splitter: SentenceSplitter = None):
         super().__init__()
         self.threshold = threshold
         self.max_chunk_character_size = max_chunk_character_size
         self.sentence_emb_model = sentence_emb_model
-        
-    def chunk(self, texts: str) -> list[str]:
+        self.sentence_splitter = sentence_splitter
+
+    def chunk(self, text: str, text_metadata: dict = {}) -> list[str]:
         # Assumes text is split into sentences some way
-        
+        sentences = self.sentence_splitter.split(text)
+
         # embed each sentence
-        sentence_embeddings = self.sentence_emb_model.embed(texts)
+        sentence_embeddings = self.sentence_emb_model.embed(sentences)
+        sentence_embeddings = torch.Tensor(sentence_embeddings)  # [num_sentences, embedding_dim]
         
         # compute cosine similarity between adjacent sentences and merge sentences until similarity drops below threshold or max chunk size is reached
         chunks = []
-        current_chunk = ""
+        current_chunk = []
         current_chunk_size = 0
-        previous_embedding = None
-        for i, sentence in enumerate(texts):
-            sentence_embedding = sentence_embeddings[i]
-            sentence_size = len(sentence)
+        
+        # get cosine similarity of adjacent sentences by creating a copy and shifting it then applying cosine similarity for vectorized operation
+        staggered_sentence_embeddings = torch.roll(sentence_embeddings, -1, dims=0)
+        cosine_similarities = F.cosine_similarity(sentence_embeddings, staggered_sentence_embeddings, dim = 1)
+        cosine_similarities = cosine_similarities[:-1] # drop similarity between first and last sentence
+
+        for i, sentence in enumerate(sentences):
+            current_chunk.append(sentence)
+            current_chunk_size += len(sentence)
+
+            # if last sentence, finalize current chunk
+            if i == len(sentences) - 1:
+                chunks.append(" ".join(current_chunk))
+                break
+
+            # if similarity drops below threshold or max_chunk_size exceeded, finalize chunk
+            if cosine_similarities[i] < self.threshold or current_chunk_size >= self.max_chunk_character_size:
+                chunks.append(" ".join(current_chunk))
+                current_chunk = []
+                current_chunk_size = 0
+
+        # optionally attach metadata to chunks (if needed)
+        if text_metadata:
+            # adding meta data and chunk id to text
+            chunks = [{"unofficial_text_en": chunk, **{**text_metadata, **{"chunk_idx": chunk_idx}}} for chunk_idx, chunk in enumerate(chunks)]
+
+        return chunks
+
+
+        # for i, sentence in enumerate(sentences):
+        #     sentence_embedding = sentence_embeddings[i]
+        #     sentence_size = len(sentence)
             
-            if previous_embedding is not None:
-                sim = cosine_similarity([previous_embedding], [sentence_embedding])[0][0]
-            else:
-                sim = 1.0  # first sentence
+        #     if previous_embedding is not None:
+        #         sim = cosine_similarity([previous_embedding], [sentence_embedding])[0][0]
+        #         logger.debug(f"Sentence {i} similarity with previous: {sim}")
+        #     else:
+        #         sim = 1.0  # first sentence
             
-            if sim < self.threshold or (current_chunk_size + sentence_size) > self.max_chunk_character_size:
-                # finalize current chunk
-                if current_chunk:
-                    chunks.append(current_chunk.strip())
-                
-                # start new chunk
-                current_chunk = sentence + " "
-                current_chunk_size = sentence_size
-            else:
-                # continue current chunk
-                current_chunk += sentence + " "
-                current_chunk_size += sentence_size
+        #     if sim < self.threshold or (current_chunk_size + sentence_size) > self.max_chunk_character_size:
+        #         # finalize current chunk
+        #         if current_chunk:
+        #             chunk = {'unofficial_text_en': current_chunk.strip(), **{**text_metadata, 'chunk_idx': chunk_idx}}
+        #             chunks.append(chunk)
+        #             chunk_idx += 1
+
+        #         # start new chunk
+        #         current_chunk = sentence + " "
+        #         current_chunk_size = sentence_size
+        #     else:
+        #         # continue current chunk
+        #         current_chunk += sentence + " "
+        #         current_chunk_size += sentence_size
             
-            previous_embedding = sentence_embedding
+        #     previous_embedding = sentence_embedding
+
+        # # finalize last chunk
+        # if current_chunk:
+        #     chunk = {'unofficial_text_en': current_chunk.strip(), **{**text_metadata, 'chunk_idx': chunk_idx}}
+        #     chunks.append(chunk)
+
+        # return chunks
+
+    def batch_chunk(self, texts_list: list[str], text_metadatas: list[dict]) -> list[list[str]]:
+        all_chunks = []
+        for texts, text_metadata in zip(texts_list, text_metadatas):
+            chunks = self.chunk(texts, text_metadata=text_metadata)
+            all_chunks.append(chunks)
+        
+        return all_chunks # list of dictionaries 
         
     
 if __name__ == "__main__":
