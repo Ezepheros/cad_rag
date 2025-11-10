@@ -79,6 +79,9 @@ class TopicChunker(Chunker):
     def chunk(self, text: str, text_metadata: dict = {}) -> list[str]:
         # Assumes text is split into sentences some way
         sentences = self.sentence_splitter.split(text)
+        if len(sentences) > 128:
+            # TODO remove, this is for OOM
+            sentences = sentences[:128]
 
         # embed each sentence
         sentence_embeddings = self.sentence_emb_model.embed(sentences)
