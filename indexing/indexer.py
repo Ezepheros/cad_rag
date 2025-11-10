@@ -181,7 +181,7 @@ if __name__ == "__main__":
         emb_model = DummyEmbeddingModelWrapper(model_name="dummy-model", emb_dim=1024)
         
         data = CanadianCaseLawDocumentDatabase()
-        chunker = NaiveChunker(chunk_size=512, overlap=64, tokenizer=emb_model.tokenizer())
+        chunker = NaiveChunker(max_chunk_character_size=512, overlap=64, tokenizer=emb_model.tokenizer())
         indexer = NaiveIndexer(emb_model=emb_model,
                                dataset=data,
                                chunker=chunker,
@@ -211,7 +211,7 @@ if __name__ == "__main__":
         emb_model = VoyageaiEmbeddingModelWrapper(model_name="voyage-3.5", vo_client=vo_client)
         
         data = CanadianCaseLawDocumentDatabase()
-        chunker = NaiveChunker(chunk_size=512, overlap=64, tokenizer=vo_client.tokenizer(model="voyage-3.5"))
+        chunker = NaiveChunker(max_chunk_character_size=512, overlap=64, tokenizer=vo_client.tokenizer(model="voyage-3.5"))
         indexer = NaiveIndexer(emb_model=emb_model,
                                dataset=data,
                                chunker=chunker,

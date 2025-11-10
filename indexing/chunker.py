@@ -27,45 +27,41 @@ class Chunker(ABC):
     def chunk(self, text: str, text_metadata: dict = {}) -> list[dict]:
         pass
     
+    def batch_chunk(self, texts: list[str], text_metadatas: list[dict] = []):
+        all_chunks = []
+        if text_metadatas:
+            assert len(texts) == len(text_metadatas) # needs texts and text metadetas to be same lengths
+
+            for text, text_metadata in zip(texts, text_metadatas):
+                chunks = self.chunk(text, text_metadata=text_metadata)
+                all_chunks.append(chunks)
+        else:
+            for text in texts:
+                chunks = self.chunk(text, text_metadata={})
+                all_chunks.append(chunks)
+        
+        return all_chunks # list of dictionaries 
+    
     
 class NaiveChunker(Chunker):
     """
         Naively chunks documents into fixed-size chunks without considering semantic boundaries.
     """
     
-    def __init__(self, tokenizer, chunk_size: int = 512, overlap: int = 64):
+    def __init__(self, max_chunk_character_size: int = 512, overlap: int = 64):
         super().__init__()
-        self.chunk_size = chunk_size
+        self.max_chunk_character_size = max_chunk_character_size
         self.overlap = overlap
-        self.tokenizer = tokenizer
         
     def chunk(self, text, text_metadata: dict = {}) -> list[str]:
-        # hardcoded for voyageai tokenizer right now
-        tokens = self.tokenizer.encode(text).ids
-        
-        chunks = []
-        start = 0
-        num_tokens = len(tokens)
-        end = num_tokens
-        
-        while start < num_tokens:
-            end = min(start + self.chunk_size, num_tokens)
-            chunk = tokens[start:end]
-            chunk_text = self.tokenizer.decode(chunk)
-            final_chunk = {'unofficial_text_en': chunk_text, **text_metadata}
+        text_chunks = []
+        idx = 0
+        while idx < len(text):
+            text_chunks.append(text[idx: idx + self.max_chunk_character_size])
+            idx += self.max_chunk_character_size - self.overlap 
             
-            start = start + self.chunk_size - self.overlap
-            chunks.append(final_chunk)
-            
+        chunks = [{"unofficial_text_en": chunk, **text_metadata, "chunk_idx": chunk_idx} for chunk_idx, chunk in enumerate(text_chunks)]
         return chunks
-    
-    def batch_chunk(self, texts: list[str], text_metadatas: list[dict] = []) -> list[list[str]]:
-        all_chunks = []
-        for i, text in enumerate(texts):
-            metadata = text_metadatas[i] if i < len(text_metadatas) else {}
-            chunks = self.chunk(text, text_metadata=metadata)
-            all_chunks.append(chunks)
-        return all_chunks
     
 class TopicChunker(Chunker):
     
@@ -113,9 +109,7 @@ class TopicChunker(Chunker):
                 current_chunk_size = 0
 
         # optionally attach metadata to chunks (if needed)
-        if text_metadata:
-            # adding meta data and chunk id to text
-            chunks = [{"unofficial_text_en": chunk, **{**text_metadata, **{"chunk_idx": chunk_idx}}} for chunk_idx, chunk in enumerate(chunks)]
+        chunks = [{"unofficial_text_en": chunk, **text_metadata, "chunk_idx": chunk_idx} for chunk_idx, chunk in enumerate(chunks)]
 
         return chunks
 
@@ -153,33 +147,44 @@ class TopicChunker(Chunker):
         #     chunks.append(chunk)
 
         # return chunks
-
-    def batch_chunk(self, texts_list: list[str], text_metadatas: list[dict]) -> list[list[str]]:
-        all_chunks = []
-        for texts, text_metadata in zip(texts_list, text_metadatas):
-            chunks = self.chunk(texts, text_metadata=text_metadata)
-            all_chunks.append(chunks)
-        
-        return all_chunks # list of dictionaries 
-        
     
 if __name__ == "__main__":
-    model = SentenceTransformer('all-MiniLM-L6-v2')
-    tokenizer = model.tokenizer
-    text = "This is a sample document. It contains multiple sentences. The purpose is to test the TopicChunker. We want to see how well it can chunk text based on topic boundaries. Each chunk should ideally not exceed the maximum chunk size specified.\
-        Let's add more sentences to ensure we have enough content to create multiple chunks. This will help us evaluate the chunking process effectively.\
-        Finally, we will print out the resulting chunks to verify their sizes and contents.\
-        Here is another sentence to make sure we have enough data. The quick brown fox jumps over the lazy dog. Natural language processing is a fascinating field of study.\
-        Chunking text is an important step in many NLP applications."
+    # model = SentenceTransformer('all-MiniLM-L6-v2')
+    # tokenizer = model.tokenizer
+    # text = "This is a sample document. It contains multiple sentences. The purpose is to test the TopicChunker. We want to see how well it can chunk text based on topic boundaries. Each chunk should ideally not exceed the maximum chunk size specified.\
+    #     Let's add more sentences to ensure we have enough content to create multiple chunks. This will help us evaluate the chunking process effectively.\
+    #     Finally, we will print out the resulting chunks to verify their sizes and contents.\
+    #     Here is another sentence to make sure we have enough data. The quick brown fox jumps over the lazy dog. Natural language processing is a fascinating field of study.\
+    #     Chunking text is an important step in many NLP applications."
         
-    breakpoint()
-    chunker = TopicChunker(tokenizer, topic_model=model, max_chunk_size=50)
-    chunks = chunker.chunk(text)
-    for i, chunk in enumerate(chunks):
-        print(f"--- Chunk {i+1} ---")
-        print(f"chunk: {chunk}\n")
-        # print(f"Chunk {i+1}: {chunk['unofficial_text_en']}\n")
-    print(f"Total Chunks: {len(chunks)}")
-    breakpoint()
+    # breakpoint()
+    # chunker = TopicChunker(tokenizer, topic_model=model, max_chunk_size=50)
+    # chunks = chunker.chunk(text)
+    # for i, chunk in enumerate(chunks):
+    #     print(f"--- Chunk {i+1} ---")
+    #     print(f"chunk: {chunk}\n")
+    #     # print(f"Chunk {i+1}: {chunk['unofficial_text_en']}\n")
+    # print(f"Total Chunks: {len(chunks)}")
+    # breakpoint()
     
+    def testNaiveChunker():
+        chunker = NaiveChunker(max_chunk_character_size=10, overlap=2)
+        text = "Legal documents are unstructured, use legal\
+jargon, and have considerable length, making\
+them difficult to process automatically via conventional text processing techniques. A legal\
+document processing system would benefit substantially if the documents could be segmented\
+into coherent information units. This paper\
+proposes a new corpus of legal documents annotated (with the help of legal experts) with\
+a set of 13 semantically coherent units labels\
+(referred to as Rhetorical Roles), e.g., facts, arguments, statute, issue, precedent, ruling, and\
+ratio. We perform a thorough analysis of the\
+corpus and the annotations. For automatically\
+segmenting the legal documents, we experiment with the task of rhetorical role prediction:\
+given a document, predict the text segments\
+corresponding to various roles. Using the created corpus, we experiment extensively with\
+various deep learn"
+        chunks = chunker.chunk(text)
+        for chunk in chunks:
+            print(f"{chunk}")
+    testNaiveChunker()
     
