@@ -1,7 +1,12 @@
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 
 import numpy as np
 import torch
 from abc import ABC, abstractmethod
+from cad_rag.utils.logging_util import get_logger
+logger = get_logger(__name__)
 
 class EmbeddingModelWrapper(ABC):
     def __init__(self, model_name: str):
@@ -11,6 +16,7 @@ class EmbeddingModelWrapper(ABC):
         self.emb_dim = None
         self.index_ = None
         self.num_calls = 0
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
         
     def embed(self, texts, **kwargs) -> list[list[float]]:
         self.num_calls += 1
@@ -110,25 +116,34 @@ class HFSentenceEmbeddingModelWrapper(EmbeddingModelWrapper):
         self.emb_model = SentenceTransformer(model_name)
         self.emb_dim = self.emb_model.get_sentence_embedding_dimension()
         
-    def _embed(self, texts: list[str]) -> list[list[float]]:
-        embeddings = self.emb_model.encode(texts, convert_to_numpy=True).tolist()
+    def _embed(self, texts: list[str], batch_size=32) -> list[list[float]]:
+        self.emb_model.to(self.device)
+
+        embeddings = self.emb_model.encode(texts, batch_size=batch_size, convert_to_numpy=True).tolist()
         return embeddings
-    
-    # def tokenizer(self):
-    #     class SentenceTransformerTokenizer:
-    #         def __init__(self, model):
-    #             self.model = model
-            
-    #         def encode(self, text: str):
-    #             tokens = self.model.tokenizer.tokenize(text)
-    #             token_ids = self.model.tokenizer.convert_tokens_to_ids(tokens)
-    #             return 
-            
-    #         def decode(self, token_ids: list[int]):
-    #             tokens = self.model.tokenizer.convert_ids_to_tokens(token_ids)
-    #             return self.model.tokenizer.convert_tokens_to_string(tokens)
+
+class DDPHFSentenceEmbeddingModelWrapper(EmbeddingModelWrapper):
+    def __init__(self, model_name: str = "all-MiniLM-L12-v2"):
+        from sentence_transformers import SentenceTransformer
+        import torch.distributed as dist
+
+        super().__init__(model_name)
+        assert "cuda" in self.device or "gpu" in self.device # "Must use GPUs for distributed models"
+
+        dist.init_process_group(backend="nccl")
+        self.local_rank = local_rank = int(os.environ.get("LOCAL_RANK", os.environ.get("SLURM_LOCALID", 0)))
+        torch.cuda.set_device(self.local_rank)
+        self.world_size = dist.get_world_size()
+
+        self.emb_model = SentenceTransformer(model_name).to(self.local_rank)
+        self.emb_dim = self.emb_model.get_sentence_embedding_dimension()
         
-    #     return SentenceTransformerTokenizer(self.emb_model)
+    def _embed(self, texts: list[str], batch_size=64) -> list[list[float]]:
+        breakpoint()
+        texts_per_gpu = texts[self.local_rank::self.world_size]
+
+        embeddings = self.emb_model.encode(texts, batch_size=batch_size, device=f"cuda:self.local_rank", convert_to_numpy=True).tolist()
+        return embeddings
     
 if __name__ == "__main__":
     def testHFEmbeddingModelWrapper():

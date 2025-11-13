@@ -9,12 +9,12 @@ logger.info(f"Adding {cad_rag_path} to sys.path")
 sys.path.append(cad_rag_path)
 
 from data.Dataset import CanadianCaseLawDocumentDatabase
-from embedding_models.embedding_models_wrapper import EmbeddingModelWrapper, HFSentenceEmbeddingModelWrapper, HFDocumentEmbeddingModelWrapper
+from embedding_models.embedding_models_wrapper import EmbeddingModelWrapper, HFSentenceEmbeddingModelWrapper, HFDocumentEmbeddingModelWrapper, DDPHFSentenceEmbeddingModelWrapper
 from indexing.splitter import SentenceSplitter
 from indexing.chunker import TopicChunker, NaiveChunker, Chunker
 
 from tqdm import tqdm
-
+import torch
 # from sentence_transformers import SentenceTransformer
 # from transformers import AutoTokenizer, AutoModel
 
@@ -78,6 +78,7 @@ def embed_dataset(dataset: CanadianCaseLawDocumentDatabase, embedding_model: Emb
                 for chunk in chunks:
                     texts_to_embed.append(chunk['unofficial_text_en'])
 
+            logger.info(f"embedding {len(texts_to_embed)} chunks...")
             embeddings = embedding_model.embed(texts_to_embed)
             emb_idx = 0
             for chunks in batch_chunks:
@@ -92,7 +93,7 @@ def embed_dataset(dataset: CanadianCaseLawDocumentDatabase, embedding_model: Emb
             batch_metadatas = []
             logger.info(f"Processed {i + 1} documents")
 
-        if (i + 1) % (document_batch_size * 10) == 0:
+        if (i + 1) % (document_batch_size * 20) == 0:
             # save intermediate results
             logger.info(f"Saving intermediate results after processing {i + 1} documents")
             save_chunks(all_chunks, output_path, dataset_name)
@@ -106,9 +107,12 @@ def embed_dataset(dataset: CanadianCaseLawDocumentDatabase, embedding_model: Emb
     save_chunks(all_chunks, output_path, dataset_name)
 
 if __name__ == "__main__":
+    logger.info(f"NUM GPUS IN EMBEDDER: {torch.cuda.device_count()}")
     logger.info("Getting ONCA dataset")
     data = CanadianCaseLawDocumentDatabase()
     onca_data = data.get_dataset_by_name("ONCA")
+    OUTPUT_DIR = "./embedded_naive_chunked_data_ONCA_512-64_QWEN8B"
+    # TODO make arguments and log them
     
     # Embed with topic chunker
     # sentence_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
@@ -127,7 +131,7 @@ if __name__ == "__main__":
     # embed_dataset(data, qwen_document_model, chunker, output_dir="./embedded_chunked_data", dataset_name="ONCA", document_batch_size=48)
 
     # Embed with Naive Chunker
-    document_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
+    document_embedding_model_name = "Qwen/Qwen3-Embedding-8B"
     logger.info(f"Initializing document model: {document_embedding_model_name}")
     qwen_document_model = HFSentenceEmbeddingModelWrapper(document_embedding_model_name)
     logger.info(f"{document_embedding_model_name} Model initialized")
@@ -140,7 +144,7 @@ if __name__ == "__main__":
         data, 
         qwen_document_model, 
         chunker, 
-        output_dir="./embedded_naive_chunked_data_512-64", 
+        output_dir=OUTPUT_DIR, 
         dataset_name="ONCA", 
         document_batch_size=64
     )
