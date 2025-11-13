@@ -1,0 +1,1 @@
+salloc --time=4:0:0 --mem-per-cpu=64G --ntasks=1 --nodes=1 --gpus=1 --partition=nlpgpo
