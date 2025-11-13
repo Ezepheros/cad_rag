@@ -3,10 +3,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 from cad_rag.data.Dataset import CanadianCaseLawDocumentDatabase
 import re
-from nltk.tokenize import sent_tokenize
-import nltk.data
-import nltk
-from nltk.tokenize import word_tokenize
+
 from pathlib import Path
 
 class Splitter:
@@ -65,6 +62,11 @@ class SentenceSplitter(Splitter):
     """
     
     def __init__(self, nltk_data_dir: str = None):
+        from nltk.tokenize import sent_tokenize
+        import nltk.data
+        import nltk
+        from nltk.tokenize import word_tokenize
+        
         super().__init__()
         if nltk_data_dir:
             nltk.download('punkt', download_dir=nltk_data_dir)
