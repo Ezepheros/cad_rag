@@ -18,8 +18,6 @@ from tqdm import tqdm
 # from sentence_transformers import SentenceTransformer
 # from transformers import AutoTokenizer, AutoModel
 
-
-
 def save_chunks(all_chunks: list[dict], output_path: os.PathLike, dataset_name: str):
     import pandas as pd
     from pathlib import Path
@@ -112,20 +110,41 @@ if __name__ == "__main__":
     data = CanadianCaseLawDocumentDatabase()
     onca_data = data.get_dataset_by_name("ONCA")
     
-    sentence_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
+    # Embed with topic chunker
+    # sentence_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
+    # document_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
+    # logger.info(f"Initializing sentence and document models: {sentence_embedding_model_name}, {document_embedding_model_name}")
+
+    # qwen_sentence_model = HFSentenceEmbeddingModelWrapper(sentence_embedding_model_name)
+    # # qwen_document_model = HFDocumentEmbeddingModelWrapper(document_embedding_model_name)
+    # qwen_document_model = HFSentenceEmbeddingModelWrapper(document_embedding_model_name)
+    # logger.info("Models initialized")
+
+    # splitter = SentenceSplitter()
+    # chunker = TopicChunker(threshold=0.6, max_chunk_character_size=1024, sentence_emb_model=qwen_sentence_model, sentence_splitter=splitter)
+    # logger.info("Splitter and Chunker initialized")
+
+    # embed_dataset(data, qwen_document_model, chunker, output_dir="./embedded_chunked_data", dataset_name="ONCA", document_batch_size=48)
+
+    # Embed with Naive Chunker
     document_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
-    logger.info(f"Initializing sentence and document models: {sentence_embedding_model_name}, {document_embedding_model_name}")
-
-    qwen_sentence_model = HFSentenceEmbeddingModelWrapper(sentence_embedding_model_name)
-    # qwen_document_model = HFDocumentEmbeddingModelWrapper(document_embedding_model_name)
+    logger.info(f"Initializing document model: {document_embedding_model_name}")
     qwen_document_model = HFSentenceEmbeddingModelWrapper(document_embedding_model_name)
-    logger.info("Models initialized")
+    logger.info(f"{document_embedding_model_name} Model initialized")
 
-    splitter = SentenceSplitter()
-    chunker = TopicChunker(threshold=0.6, max_chunk_character_size=1024, sentence_emb_model=qwen_sentence_model, sentence_splitter=splitter)
-    logger.info("Splitter and Chunker initialized")
+    max_chunk_character_size = 512
+    overlap = 64
+    chunker = NaiveChunker(max_chunk_character_size=max_chunk_character_size, overlap=overlap)
 
-    embed_dataset(data, qwen_document_model, chunker, output_dir="./embedded_chunked_data", dataset_name="ONCA", document_batch_size=48)
+    embed_dataset(
+        data, 
+        qwen_document_model, 
+        chunker, 
+        output_dir="./embedded_naive_chunked_data_512-64", 
+        dataset_name="ONCA", 
+        document_batch_size=64
+    )
+
 
 
 
