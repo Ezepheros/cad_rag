@@ -141,7 +141,7 @@ if __name__ == "__main__":
     chunker = NaiveChunker(max_chunk_character_size=max_chunk_character_size, overlap=overlap)
 
     embed_dataset(
-        data, 
+        onca_data, 
         qwen_document_model, 
         chunker, 
         output_dir=OUTPUT_DIR, 
