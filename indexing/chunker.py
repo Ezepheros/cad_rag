@@ -60,7 +60,7 @@ class NaiveChunker(Chunker):
             text_chunks.append(text[idx: idx + self.max_chunk_character_size])
             idx += self.max_chunk_character_size - self.overlap 
             
-        chunks = [{"unofficial_text_en": chunk, **text_metadata, "chunk_idx": chunk_idx} for chunk_idx, chunk in enumerate(text_chunks)]
+        chunks = [{"chunk_idx": chunk_idx, "unofficial_text": chunk, **text_metadata} for chunk_idx, chunk in enumerate(text_chunks)]
         return chunks
     
 class TopicChunker(Chunker):
@@ -73,6 +73,7 @@ class TopicChunker(Chunker):
         self.sentence_splitter = sentence_splitter
 
     def chunk(self, text: str, text_metadata: dict = {}) -> list[str]:
+
         # Assumes text is split into sentences some way
         sentences = self.sentence_splitter.split(text)
         if len(sentences) > 128:
@@ -84,7 +85,7 @@ class TopicChunker(Chunker):
         sentence_embeddings = torch.Tensor(sentence_embeddings)  # [num_sentences, embedding_dim]
         
         # compute cosine similarity between adjacent sentences and merge sentences until similarity drops below threshold or max chunk size is reached
-        chunks = []
+        text_chunks = []
         current_chunk = []
         current_chunk_size = 0
         
@@ -99,17 +100,17 @@ class TopicChunker(Chunker):
 
             # if last sentence, finalize current chunk
             if i == len(sentences) - 1:
-                chunks.append(" ".join(current_chunk))
+                text_chunks.append(" ".join(current_chunk))
                 break
 
             # if similarity drops below threshold or max_chunk_size exceeded, finalize chunk
             if cosine_similarities[i] < self.threshold or current_chunk_size >= self.max_chunk_character_size:
-                chunks.append(" ".join(current_chunk))
+                text_chunks.append(" ".join(current_chunk))
                 current_chunk = []
                 current_chunk_size = 0
 
         # optionally attach metadata to chunks (if needed)
-        chunks = [{"unofficial_text_en": chunk, **text_metadata, "chunk_idx": chunk_idx} for chunk_idx, chunk in enumerate(chunks)]
+        chunks = [{"chunk_idx": chunk_idx, "unofficial_text": chunk, **text_metadata} for chunk_idx, chunk in enumerate(text_chunks)]
 
         return chunks
 

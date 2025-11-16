@@ -46,6 +46,7 @@ class NaiveIndexer(Indexer):
         self.breakpoints = {}
             
     def create_index(self):
+        #TODO replace unofficial_text_en with unofficial_text
         pq_writer = None
         idx = 0
         chunks = []

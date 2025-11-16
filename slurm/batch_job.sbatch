@@ -5,8 +5,8 @@
 #SBATCH --ntasks=1                     # Number of tasks (usually 1 for Python)
 #SBATCH --cpus-per-task=4              # Number of CPU cores per task
 #SBATCH --gres=gpu:1                   # Number of GPUs (if needed)
-#SBATCH --mem=64G                      # Memory per node
-#SBATCH --time=48:00:00                # Max runtime (HH:MM:SS)
+#SBATCH --mem=84G                      # Memory per node
+#SBATCH --time=24:00:00                # Max runtime (HH:MM:SS)
 #SBATCH --partition=nlpgpo                 # Partition/queue name
 
 # Load modules or activate environment
@@ -18,7 +18,7 @@ export TRANSFORMERS_CACHE=$HF_HOME
 export HF_DATASETS_CACHE=$HF_HOME
 
 # Move to your project directory
-cd /ubc/cs/research/nlp-raid/students/ethanz01/cad_rag
+cd /ubc/cs/research/nlp-raid/students/ethanz01/cs-masters/cad_rag
 
 # Run your Python training script
 python embed_dataset.py
