@@ -1,0 +1,25 @@
+query: If I bought a machine and want to get a refund because it was damaged upon delivery, can I sue if I am not refunded?
+
+doc 0: s would be an individual issue.
+[8] The heart of the appellants’ claim, therefore, is that the machines purchased were shoddy goods that were not worth their purchase price. They seek what they style as damages for the overpayment – a form of rebate, or “diminution in value”.
+[9] The appellants advanced several claims: breach of express warranty; breach of implied warranty; breach of s. 52 of the Competition Act; negligence; and waiver of tort. Jurisprudentially, the most significant of their claims is in n
+ -----------------------------------------------------------------
+doc 1: ent’s ability to deliver the remaining two pieces still in the appellants’ possession, failing which, the $60,000 was to be refunded.
+[4] The respondent subsequently brought a motion for summary judgment for damages against the appellants, and an order for delivery up of the remaining two pieces of equipment. Before the motion judge, the appellants argued that they had entered into a settlement agreement with the respondent which required dismissal of the respondent’s motion.
+[5] The motion judge concluded 
+ -----------------------------------------------------------------
+doc 2: The error was soon discovered, Dell corrected its mistake and announced it would not honour sales of computers at the erroneous, lower price. Mr. Dumoulin, a Québec consumer, circumvented the measures taken by Dell to correct its mistake and was able to order a computer at the erroneous price. Other consumers also ordered computers at the erroneous price. When Dell refused to honour the sales, the Union des consommateurs (the “
+Union”) and Mr. Dumoulin filed a motion for authorization to institute a class a
+ -----------------------------------------------------------------
+doc 3:  the attention of the respondent when, on November 6, 2014, the appellant contacted the respondent to request that he sign the formal TCPL agreement. On November 7, 2014, the respondent advised the appellant that he would not close the deal. He requested the return of the $50,000 deposit.
+[6] The appellant refused to return the deposit and brought this action for damages resulting from the respondent’s refusal to close the purchase. The respondent commenced a counterclaim for the return of the $50,000 depos
+ -----------------------------------------------------------------
+doc 4: onably fit” for the purpose of washing clothing. A washing machine is not reasonably fit for the purpose of washing clothing when it imparts an unpleasant odour on the clothing washed.
+[26] The relevant provisions of the SGA are as follows:
+1(1) In this Act,
+“buyer” means the person who buys or agrees to buy goods;
+“contract of sale” includes an agreement to sell as well as a sale;
+…
+“sale” includes a bargain and sale as well as a sale and delivery;
+“seller” means a person who sells or agrees to sell goods;
+ -----------------------------------------------------------------

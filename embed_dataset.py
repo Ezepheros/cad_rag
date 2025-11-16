@@ -37,19 +37,29 @@ def save_chunks(all_chunks: list[dict], output_path: os.PathLike, dataset_name: 
     parquet_file_path = output_path / f"{dataset_name}_embedded_chunked.parquet"
     pickle_file_path = output_path / f"{dataset_name}_embedded_chunked.pkl"
 
+    chunked_df.to_pickle(pickle_file_path)
     # Write to parquet
     writer = None
 
-    for batch_df in pd.read_csv(..., chunksize=10000):
-        table = pa.Table.from_pandas(batch_df)
+    n = len(chunked_df)
+    batch_size = 4096
+    for start in range(0, n, batch_size):
+        end = min(start + batch_size, n)
+        batch_df = chunked_df.iloc[start:end]
+
+        table = pa.Table.from_pandas(batch_df, preserve_index=False)
+
+        # Create writer once (schema comes from first batch)
         if writer is None:
             writer = pq.ParquetWriter(parquet_file_path, table.schema)
+
+        # Write row group
         writer.write_table(table)
 
     if writer:
         writer.close()
     # chunked_df.to_parquet(parquet_file_path, engine='pyarrow', index=False)
-    chunked_df.to_pickle(pickle_file_path)
+    
     logger.info(f"Embedded chunked data saved to {parquet_file_path} and {pickle_file_path}")
     
 
@@ -125,7 +135,7 @@ def embed_dataset(dataset: CanadianCaseLawDocumentDatabase, embedding_model: Emb
             batch_metadatas = []
             logger.info(f"Processed {i + 1} documents")
 
-        if (i + 1) % (document_batch_size * 20) == 0:
+        if (i + 1) % (document_batch_size * 20) == 0 or i == document_batch_size + 1:
             # save intermediate results
             logger.info(f"Saving intermediate results after processing {i + 1} documents")
             save_chunks(all_chunks, output_path, dataset_name)

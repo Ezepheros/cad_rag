@@ -5,7 +5,7 @@
 #SBATCH --ntasks=1                     # Number of tasks (usually 1 for Python)
 #SBATCH --cpus-per-task=4              # Number of CPU cores per task
 #SBATCH --gres=gpu:1                   # Number of GPUs (if needed)
-#SBATCH --mem=84G                      # Memory per node
+#SBATCH --mem=100G                      # Memory per node
 #SBATCH --time=24:00:00                # Max runtime (HH:MM:SS)
 #SBATCH --partition=nlpgpo                 # Partition/queue name
 
