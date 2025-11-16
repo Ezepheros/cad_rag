@@ -66,8 +66,8 @@ if __name__ == "__main__":
         with open(os.path.join(save_path, "retrieval.txt"), "w") as f:
             f.write(f"query: {query}\n")
 
-            for i, text in enumerate(entries['unofficial_text']):
-                f.write(f"doc {i}: {text}\n -----------------------------------------------------------------\n")
+            for i, entry in enumerate(entries.itertuples()):
+                f.write(f"doc {i}: URL: {entry.url_en} | {entry.unofficial_text}\n -----------------------------------------------------------------\n")
 
     test_retriever()
         
