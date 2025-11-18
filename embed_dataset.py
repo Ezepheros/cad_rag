@@ -161,17 +161,17 @@ if __name__ == "__main__":
     # TODO make arguments and log them
     
     # Embed with topic chunker
-    # sentence_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
-    # document_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
+    sentence_embedding_model_name = "Qwen/Qwen3-Embedding-0.6B"
+    document_embedding_model_name = "Qwen/Qwen3-Embedding-8B"
     # logger.info(f"Initializing sentence and document models: {sentence_embedding_model_name}, {document_embedding_model_name}")
 
-    # qwen_sentence_model = HFSentenceEmbeddingModelWrapper(sentence_embedding_model_name)
-    # # qwen_document_model = HFDocumentEmbeddingModelWrapper(document_embedding_model_name)
-    # qwen_document_model = HFSentenceEmbeddingModelWrapper(document_embedding_model_name)
-    # logger.info("Models initialized")
+    qwen_sentence_model = HFSentenceEmbeddingModelWrapper(sentence_embedding_model_name)
+    # qwen_document_model = HFDocumentEmbeddingModelWrapper(document_embedding_model_name)
+    qwen_document_model = HFSentenceEmbeddingModelWrapper(document_embedding_model_name)
+    logger.info("Models initialized")
 
-    # splitter = SentenceSplitter()
-    # chunker = TopicChunker(threshold=0.6, max_chunk_character_size=1024, sentence_emb_model=qwen_sentence_model, sentence_splitter=splitter)
+    splitter = SentenceSplitter()
+    chunker = TopicChunker(threshold=0.6, max_chunk_character_size=1024, sentence_emb_model=qwen_sentence_model, sentence_splitter=splitter)
     # logger.info("Splitter and Chunker initialized")
 
     # embed_dataset(data, qwen_document_model, chunker, output_dir="./embedded_chunked_data", dataset_name="ONCA", document_batch_size=48)
@@ -182,9 +182,9 @@ if __name__ == "__main__":
     qwen_document_model = HFSentenceEmbeddingModelWrapper(document_embedding_model_name)
     logger.info(f"{document_embedding_model_name} Model initialized")
 
-    max_chunk_character_size = 512
-    overlap = 64
-    chunker = NaiveChunker(max_chunk_character_size=max_chunk_character_size, overlap=overlap)
+    # max_chunk_character_size = 512
+    # overlap = 64
+    # chunker = NaiveChunker(max_chunk_character_size=max_chunk_character_size, overlap=overlap)
 
     start_resource_monitor()
 
