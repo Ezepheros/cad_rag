@@ -109,7 +109,7 @@ class TopicChunker(Chunker):
         staggered_sentence_embeddings = torch.roll(sentence_embeddings, -1, dims=0)
         cosine_similarities = F.cosine_similarity(sentence_embeddings, staggered_sentence_embeddings, dim = 1)
         # cosine_similarities = cosine_similarities[:-1] # drop similarity between first and last sentence
-        breakpoint()
+        # breakpoint()
 
         for i, sentence in enumerate(sentences):
             current_chunk.append(sentence)

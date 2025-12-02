@@ -9,14 +9,14 @@ from cad_rag.utils.logging_util import get_logger
 logger = get_logger(__name__)
 
 class EmbeddingModelWrapper(ABC):
-    def __init__(self, model_name: str):
+    def __init__(self, model_name: str, device="cuda:0"):
         self.model_name = model_name
         self.provider = None
         self.emb_model = None
         self.emb_dim = None
         self.index_ = None
         self.num_calls = 0
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.device = torch.device(device)
         
     def embed(self, texts, **kwargs) -> list[list[float]]:
         self.num_calls += 1
@@ -33,12 +33,13 @@ class EmbeddingModelWrapper(ABC):
     #     raise NotImplementedError("Subclasses must implement this method.")
 
 class SentenceEmbeddingModelWrapper(ABC):
-    def __init__(self, model_name: str):
+    def __init__(self, model_name: str, device="cuda:0"):
         self.model_name = model_name
         self.emb_model = None
         self.emb_dim = None
         self.index_ = None
         self.num_calls = 0
+        self.device = torch.device(device)
         
     def embed(self, texts, **kwargs) -> list[list[float]]:
         self.num_calls += 1
@@ -93,27 +94,28 @@ class VoyageaiEmbeddingModelWrapper(EmbeddingModelWrapper):
         return self.vo_client.tokenizer(model=self.model_name)
     
 class HFDocumentEmbeddingModelWrapper(EmbeddingModelWrapper):
-    def __init__(self, model_name: str = "Qwen/Qwen3-Embedding-0.6B"):
+    def __init__(self, model_name: str = "Qwen/Qwen3-Embedding-0.6B", device="cuda:0"):
         from transformers import AutoTokenizer, AutoModel
-        super().__init__(model_name)
+        super().__init__(model_name, device=device)
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.emb_model = AutoModel.from_pretrained(model_name)
+        self.emb_model.to(self.device)
         self.emb_dim = self.emb_model.config.hidden_size
         self.max_length = self.tokenizer.model_max_length
         
     def _embed(self, texts: list[str]) -> list[list[float]]:
         # embed text
-        inputs = self.tokenizer(texts, padding=True, truncation=True, max_length=self.max_length, return_tensors="pt")
+        inputs = self.tokenizer(texts, padding=True, truncation=True, max_length=self.max_length, return_tensors="pt").to(self.device)
         with torch.no_grad():
             outputs = self.emb_model(**inputs)
         embeddings = outputs.last_hidden_state[:, 0, :].cpu().numpy().tolist()
         return embeddings
 
 class HFSentenceEmbeddingModelWrapper(EmbeddingModelWrapper):
-    def __init__(self, model_name: str = "all-MiniLM-L12-v2"):
+    def __init__(self, model_name: str = "all-MiniLM-L12-v2", device="cuda:0"):
         from sentence_transformers import SentenceTransformer
         super().__init__(model_name)
-        self.emb_model = SentenceTransformer(model_name)
+        self.emb_model = SentenceTransformer(model_name).to(self.device)
         self.emb_dim = self.emb_model.get_sentence_embedding_dimension()
         
     def _embed(self, texts: list[str], batch_size=32) -> list[list[float]]:

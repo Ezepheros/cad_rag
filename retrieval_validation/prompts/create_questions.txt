@@ -1,0 +1,45 @@
+You are generating realistic user queries for a legal retrieval system (RAG).  
+Your goal is to create queries that a user might ask *without* knowing which case  
+document contains the answer.
+
+The queries should reflect the legal issues, principles, fact patterns, and  
+situations discussed in the provided court decision, but MUST NOT reveal or  
+directly quote the document. They must be written from the perspective of a user  
+who has not seen the case and is describing their own situation or asking about  
+a general legal concept.
+
+==============================
+SOURCE COURT DECISION (for your analysis ONLY)
+{document_text}
+==============================
+
+### IMPORTANT RULES FOR QUERIES
+1. Produce {num_queries} queries.
+2. Write queries from the view of a user who does *not* know this document exists.
+3. Write queries from the view of a user who does not know what principle of law to apply.
+3. Queries should be realistic and phrased as natural questions a person might type into a search bar or ask a lawyer/LLM.
+4. DO NOT reference names, dates, laws or specific events from the document.
+5. Queries must be *grounded in the legal principles* present in the document  
+   (e.g., contract formation, negligence, procedural fairness), and must clearly  
+   relate to topics that the document could answer.
+6. Introduce variety. Include:
+   - Hypothetical situations (“If I…”, “What happens when…?”)
+   - Conceptual legal questions (“How does the court determine…?”)
+   - Outcome-oriented questions (“Would this count as…?”)
+   - Multi-step or scenario-based questions requiring reasoning.
+7. The questions should be moderately complex, not trivial.
+8. Do NOT answer the questions. Output only the queries.
+9. Output a JSON list of strings.
+
+### EXAMPLES OF VALID QUERY STYLES (structure only — DO NOT reuse content)
+- “If a supplier and I exchanged emails agreeing on price and quantities but didn't sign anything, could that count as a binding contract?”
+- “How do courts evaluate whether an employment agreement was formed when the terms weren’t fully finalized?”
+- “In a negligence claim, what factors determine whether someone had a duty of care in an informal relationship?”
+- “Would performing actions X and Y after a verbal agreement be enough to show mutual assent in contract formation?”
+
+### OUTPUT FORMAT
+[
+  "query 1",
+  "query 2",
+  ...
+]
